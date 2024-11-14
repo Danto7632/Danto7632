@@ -6,7 +6,7 @@
 ### 자세한건 없음
 <br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanto7632&count_bg=%23F3EEDC&title_bg=%23C59652&icon=&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanto7632&count_bg=%23F3EEDC&title_bg=%23C59652&icon=&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
   [![Solved.ac
