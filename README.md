@@ -1,13 +1,13 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=tluda's%20Github%20&fontSize=80&fontAlignY=40&desc=천재%20성장형%20올라운더%20개발자%20૮₍˃̵ࡇ˂̵₎ა&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=tluda's%20Github%20&fontSize=80&fontAlignY=40&desc=천재%20성장형%20올라운더%20개발자%20૮₍𖦹_×`₎ა&descSize=25)
 <div align = "center">
 <br />
 <div align=center>
 
 ### Hi There👋
 ## welcome to my github
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6yoon&count_bg=%23F3EEDC&title_bg=%23ACF1F2&icon=&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanto7632&count_bg=%23F3EEDC&title_bg=%23ACF1F2&icon=&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
   [![Solved.ac
@@ -15,7 +15,7 @@
 
 
 ### 💬sns
-<a href = "https://www.instagram.com/tluda/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/_tluda/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
