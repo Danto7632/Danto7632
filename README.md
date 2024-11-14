@@ -1,20 +1,7 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=Welcome,%20bro%20&fontSize=80&fontAlignY=40&desc=tluda's%20github%20Github&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=천재 성장형 올라운더 개발자%20◖⚆ᴥ⚆◗%20&fontSize=80&fontAlignY=40&desc=tluda's%20github%20Github&descSize=25)
 <div align = "center">
-<br />
-*천재 성장형 올라운더 개발자*◖⚆ᴥ⚆◗
-<br>
-## 💼 Experience
-2024/00 ~ 2024/00 작성중<br />
-2024/00 ~ 2024/00 작성중<br />
-2024/00 ~ 2024/00 작성중<br />
-## :trophy: Competition
-2024/00 ~ 2024/00 작성중 - 작성중 <br />
-2024/00 ~ 2024/00 작성중 - 작성중
-## :runner: SoloProject
-작성중
-<br />
 <br />
 <div align=center>
 
