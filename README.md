@@ -1,6 +1,6 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=Genius%20◖⚆ᴥ⚆◗%20&fontSize=80&fontAlignY=40&desc=tluda's%20github%20Github&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=tluda's%20Github%20&fontSize=80&fontAlignY=40&desc=Genius%20developer%20◖⚆ᴥ⚆◗&descSize=25)
 <div align = "center">
 <br />
 <div align=center>
