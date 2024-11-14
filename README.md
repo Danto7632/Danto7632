@@ -7,7 +7,7 @@
 
 ### Hi There👋
 ## welcome to my github
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanto7632&count_bg=%23F3EEDC&title_bg=%23ACF1F2&icon=&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanto7632&count_bg=%23F3EEDC&title_bg=%23ACF1F2&icon=&icon_color=%23C596520&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
   [![Solved.ac
