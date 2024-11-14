@@ -15,7 +15,7 @@
 
 
 ### 💬sns
-<a href = "https://www.instagram.com/_tluda/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/_tluda/"><img src="https://img.shields.io/badge/Instagram-c59652?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
