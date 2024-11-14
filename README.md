@@ -1,6 +1,6 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:acf1f2,100:f3eedc&height=270&section=header&text=tluda's%20github%20&fontSize=80&fontAlignY=40&desc=aa%20aa's%20Github&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:acf1f2,100:f3eedc&height=270&section=header&text=Welcome,%20bro%20&fontSize=80&fontAlignY=40&desc=tluda's%20github%20Github&descSize=25)
 <div align = "center">
 <br />
 *천재 성장형 올라운더 개발자*◖⚆ᴥ⚆◗
