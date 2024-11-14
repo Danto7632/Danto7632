@@ -17,7 +17,7 @@
 <a href = "https://www.instagram.com/_tluda/"><img src="https://img.shields.io/badge/Instagram-c59652?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=donut-compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
