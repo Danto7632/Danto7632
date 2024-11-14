@@ -25,11 +25,11 @@
   [![Solved.ac
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632)](https://solved.ac/danto7632)
 
-[![Nayoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=6yoon&theme=solarized-light)](https://github.com/6yoon/github-readme-stats)
+[![tluda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danto7632&theme=solarized-light)](https://github.com/danto7632/github-readme-stats)
 
 
 ### 💬sns
-<a href = "https://www.instagram.com/6_6_sixx/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/tluda/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:acf1f2,100:f3eedc&height=130&section=footer&fontSize=90)
 </div>
