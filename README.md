@@ -2,10 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=tluda's%20Github%20&fontSize=80&fontAlignY=40&desc=천재%20성장형%20올라운더%20개발자%20૮𖦹_×ა&descSize=25)
 <div align = "center">
-<br />
-<div align=center>
 
 ### 자세한건 없음
+<br />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanto7632&count_bg=%23F3EEDC&title_bg=%23C59652&icon=&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
