@@ -1,6 +1,7 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=tluda's+GitHub&height=180&fontAlignY=40&color=timeGradient&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:acf1f2,100:f3eedc&height=270&section=header&text=tluda's%20github%20&fontSize=80&fontAlignY=40&desc=aa%20aa's%20Github&descSize=25)
+<div align = "center">
 <br />
 *천재 성장형 올라운더 개발자*◖⚆ᴥ⚆◗
 <br>
@@ -24,8 +25,6 @@
 
   [![Solved.ac
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632)](https://solved.ac/danto7632)
-
-[![tluda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danto7632&theme=solarized-light)](https://github.com/danto7632/github-readme-stats)
 
 
 ### 💬sns
