@@ -30,7 +30,7 @@
 ### 💬sns
 <a href = "https://www.instagram.com/tluda/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:acf1f2,100:f3eedc&height=130&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danto7632&theme=solarized-light&repo=github-readme-stat)](https://github.com/anuraghazra/github-readme-stats)--!>
