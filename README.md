@@ -10,6 +10,9 @@
 
 - 태권도 1년 (1단)
 - 피아노 3년 (체르니  30)
+- 컴퓨터활용 방과후 2년 (타자연습, ppt 등)
+<br>문서실무사 4급 취득
+- 희망진로 : 티라노사우르스, 격투가, 비트박서
 
 </div>
 </details>
@@ -18,17 +21,13 @@
 <summary><h3>중학생</h3></summary>
 <div markdown="1">
 
-- 2017 사도장학회 장학생으로 중학교 입학
-- 교내 오케스트라 입단 (타악기 - 글로켄슈필)
-- 학교 축제에서 오케스트라, 난타(페인트통) 무대를 펼침
+- 2017 사도장학회 **장학생**으로 중학교 입학
 - 복싱 3개월
-- '수학특성화중학교' 라는 책 시리즈를 읽고 코딩에 관심을 갖게 됨
-- 'Do it! 점프 투 파이썬' 이라는 책을 구매하여
-<br>비교적 입문하기 좋은 언어인 python으로 독학을 시작
-- 중학교를 졸업하면서 프로그래머의 꿈을 가지기 시작함
-- 오케스트라 곡은 다음과 같은 3가지 곡을 연습하였음
-<br>Ross Roy, The power of Korea, Fate of the gods
-
+- 오케스트라 입단 (타악기 - 글로켄슈필)
+<br> 연주한 곡들 : <a href="https://www.youtube.com/watch?v=Ley7uiqSs2I">Ross Roy</a>, <a href="https://www.youtube.com/watch?v=O6Gd_eN2fWQ">The power of Korea</a>, <a href="https://www.youtube.com/watch?v=qiR0mCxK7Sc">Fate of the gods</a>
+- <a href="https://namu.wiki/w/%EC%88%98%ED%95%99%ED%8A%B9%EC%84%B1%ED%99%94%EC%A4%91%ED%95%99%EA%B5%90">'수학특성화중학교'  시리즈</a>를 읽고 코딩에 관심을 갖게 됨
+<br><a href="https://search.shopping.naver.com/book/catalog/32456895000">'Do it! 점프 투 파이썬'</a> 이라는 책으로 python **독학 시작**
+- 희망진로 : 비트박서, 래퍼, 정보보안전문가
 </div>
 </details>
 
@@ -36,37 +35,38 @@
 <summary><h3>고등학생</h3></summary>
 <div markdown="1">
 
-- 정규 코딩동아리 NEWCOLLAR에 가입
-<br>놀랍게도 코딩동아리가 2개였기 때문에 인원이 분산되었고
-<br>타동아리가 인기가 더 좋았어서 우리 동아리 신입생은 나를 포함하여 3명이었음
-<br>그때 당시 동아리 부장님(지금도 연락하는 형) - github(link 예정)
-- 선배를 통해 프로그래머스라는 사이트를 알게됨
-<br>강의를 보고 여러문제들을 풀어보며 python 문법을 다짐
 - 복싱 3개월
+- MMA 3개월
+- 배드민턴 1년
+- 정규 코딩동아리 NEWCOLLAR에 가입 - <a href="#">당시 동아리부장 Github</a>
+<br>타 코딩동아리로의 인원 분산으로 우리 동아리 신입생은 나를 포함하여 **3명**
+<br>친구 1과 친구2는 이후 **경희대학교**와 **서울대학교**에 진학
+- <a href="https://school.programmers.co.kr/learn/courses/2/2-%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8">프로그래머스 파이썬 입문 완강</a>
 - [ 2020.11.21~11.27 ] 동계 SW융합 창작 캠프 *수료
 <br>교육과정 : 인공지능 모델을 적용한 나만의 홈페이지 만들기
-<br>해당 프로그램을 통해 html,css를 활용한 웹페이지 구성방법&AI 모델링 방법을 알게됨<br>우수학생으로 개발내용을 발표하고 AI 로봇큐브를 증정받음
-<br>template(link 예정)
-- 2학년이 되면서 정규 코딩동아리 NEWCOLLAR의 부장자리를 이어받음
-- 앱인벤터로 '공 튀기기 게임' 카피 코딩해보고 게임방식을 개선해보며 추가기능을 넣어봄
-- python의 tkinter모듈로 GUI 형태의 '업다운 게임'을 구현했음
-- 웹페이지에 대한 관심을 갖게 되어 제대로된 웹페이지를 하나 만들어봄(템플릿 활용)
-<br>OtterCompany(link 예정)
-- 삼성 주니어 SW 창작대회 예선 탈락
+<br>교육내용 : html, css, <a href="https://teachablemachine.withgoogle.com/">Teachable Machine</a> - **우수학생** 선정 *AI로봇큐브 상품
+<br> 개발프로젝트 : <a href="https://github.com/Danto7632/template">template</a>
+- 2학년에 정규 코딩동아리 NEWCOLLAR의 **부장**을 맡게 됨
+- 앱인벤터기반 '공 튀기기 게임' 카피 코딩(<a href="https://kujung.tistory.com/104">블로그</a>) - 게임방식수정, 기능추가
+<br>개발프로젝트 : <a href="#">???(미업로드상태)</a>
+- tkinter모듈을 활용한 python 기반 GUI 형태의 '업다운 게임'을 구현
+<br>개발 프로젝트 : <a href="#">???(미업로드상태)</a>
+- 웹페이지에 대한 관심을 갖게 되어 미래의 회사 웹페이지 개발(템플릿 활용)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/OtterCompany">OtterCompany</a>
+- 삼성 주니어 SW 창작대회 예선탈락 (아이디어 서류탈락)
 - 영남이공대 산업현장 탐방 및 직무 멘토링 프로그램
-<br>- [ 2021.08.18 ~ 08.19 ] IoT SW 개발자 체험 *수료
-<br>아두이노 키트와 엔트리 관련 수업
-<br>- [ 2021.08.23 ~ 08.25 ] 정보보호 전문가 - 화이트해커 *수료
-<br>해킹 이론, 실습은 주로 SQL Injection 관련 수업 *WebGoat 활용
-<br>문제풀듯이 해서 제일 재밌었음 + 이후 해킹방어대회 CTF에 참여하고
-<br>3문제인가 풀고 수상못했음, 4문제부터 수상권 이었던 것으로 기억
+<br>- [ 2021.08.18 ~ 08.19 ] IoT SW 개발자 체험(아두이노, 엔트리) *수료
+<br>- [ 2021.08.23 ~ 08.25 ] 정보보호 전문가 - 화이트해커(WebGoat) *수료
 <br>- [ 2021.08.30 ~ 08.31 ] AI SW개발자 체험 *수료
 <br>K-means, K-NN 인공지능 학습관련 수업
-- NYPC 2021 예선 탈락
-- MMA 3개월
-- 정보올림피아드 예선 탈락
-- 창업 특강에서 팀을 이뤄  아이디어 기획과 사업계획서를 작성하고 발표하며 1등을 차지함, 학교대표로 창업경진대회 참여
-- 작성중...(고2~고3 이야기 아직 다작성하지 못했음)
+- NYPC 2021 예선탈락 (그당시 어렵다고 느꼈고, 위 멘토링 프로그램과 날짜가 겹쳤음)
+- 해킹방어대회 CTF 미수상 (4문제부터 수상권, but 3문제 풀었음)
+- FTC-Qualcomm **장학팀** 선정 이후 로봇개발
+- 자율동아리  Programers 개설 - **앱개발 학생동아리 선정** *교육청
+- 
+- 창업 아이디어 교내 1위 -> 학교대표 <a href="https://www.crowd.or.kr/contest/view.php?no=36&item_no=184">모의 크라우드 펀딩대회</a> - 최종6위
+- 
+- 정보올림피아드 미수상
 
 </div>
 </details>
