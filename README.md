@@ -65,8 +65,9 @@
 - "C#을 활용한 몬티홀 문제 증명"이라는 수학체험 부스 운영 - 최종 3위
 <br>개발 프로젝트 : <a href="#">???(미업로드상태)</a>
 - 창업 아이디어 교내 1위 -> 학교대표 <a href="https://www.crowd.or.kr/contest/view.php?no=36&item_no=184">모의 크라우드 펀딩대회</a> - 최종6위
-- 
-- 정보올림피아드 미수상
+- 플래피버드 카피코딩(<a href="https://www.youtube.com/watch?v=EqoU1PodQQ4">유튜브</a>)으로 수달의 모험 개발
+<br>개발 프로젝트 : <a href="#">???(미업로드상태)</a>
+- 정보올림피아드 미수상 (당시 어렵다고 느꼈음)
 
 </div>
 </details>
