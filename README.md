@@ -25,6 +25,7 @@
 - 복싱 3개월
 - 오케스트라 입단 (타악기 - 글로켄슈필)
 <br> 연주한 곡들 : <a href="https://www.youtube.com/watch?v=Ley7uiqSs2I">Ross Roy</a>, <a href="https://www.youtube.com/watch?v=O6Gd_eN2fWQ">The power of Korea</a>, <a href="https://www.youtube.com/watch?v=qiR0mCxK7Sc">Fate of the gods</a>
+<br> 수상 후 <a href="https://youtu.be/cAplKSip6iA?si=L8-Y8CZzIRmzgnx3&t=4703">대전예술의전당에서 한국의 힘(The power of Korea) 연주</a>
 - <a href="https://namu.wiki/w/%EC%88%98%ED%95%99%ED%8A%B9%EC%84%B1%ED%99%94%EC%A4%91%ED%95%99%EA%B5%90">'수학특성화중학교'  시리즈</a>를 읽고 코딩에 관심을 갖게 됨
 <br><a href="https://search.shopping.naver.com/book/catalog/32456895000">'Do it! 점프 투 파이썬'</a> 이라는 책으로 python **독학 시작**
 - 희망진로 : 비트박서, 래퍼, 정보보안전문가
