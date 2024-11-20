@@ -8,8 +8,8 @@
 <summary><h3>초등학생</h3></summary>
 <div markdown="1">
 
-- 태권도 1년 (1단)
-- 피아노 3년 (체르니  30)
+- 태권도 1년 (1단) *체육관
+- 피아노 3년 (체르니  30) *학원
 - 컴퓨터활용 방과후 2년 (타자연습, ppt 등)
 <br>문서실무사 4급 취득
 - 희망진로 : 티라노사우르스, 격투가, 비트박서
@@ -22,8 +22,8 @@
 <div markdown="1">
 
 - 2017 사도장학회 **장학생**으로 중학교 입학
-- 복싱 3개월
-- 오케스트라 입단 (타악기 - 글로켄슈필)
+- 복싱 3개월 *체육관
+- 오케스트라 입단 (타악기 - 글로켄슈필) *동아리
 <br> 연주한 곡들 : <a href="https://www.youtube.com/watch?v=Ley7uiqSs2I">Ross Roy</a>, <a href="https://www.youtube.com/watch?v=O6Gd_eN2fWQ">The power of Korea</a>, <a href="https://www.youtube.com/watch?v=qiR0mCxK7Sc">Fate of the gods</a>
 <br> 수상 후 <a href="https://youtu.be/cAplKSip6iA?si=L8-Y8CZzIRmzgnx3&t=4703">대전예술의전당에서 한국의 힘(The power of Korea) 연주</a>
 - <a href="https://namu.wiki/w/%EC%88%98%ED%95%99%ED%8A%B9%EC%84%B1%ED%99%94%EC%A4%91%ED%95%99%EA%B5%90">'수학특성화중학교'  시리즈</a>를 읽고 코딩에 관심을 갖게 됨
@@ -36,9 +36,9 @@
 <summary><h3>고등학생</h3></summary>
 <div markdown="1">
 
-- 복싱 3개월
-- MMA 3개월
-- 배드민턴 1년
+- 복싱 3개월 *체육관
+- MMA 3개월 *체육관
+- 배드민턴 1년 *취미동아리
 - 정규 코딩동아리 NEWCOLLAR에 가입 - <a href="#">당시 동아리부장 Github</a>
 <br>타 코딩동아리로의 인원 분산으로 우리 동아리 신입생은 나를 포함하여 **3명**
 <br>친구 1과 친구2는 이후 **경희대학교**와 **서울대학교**에 진학
@@ -77,7 +77,8 @@
 <summary><h3>대학생</h3></summary>
 <div markdown="1">
 
-- 작성중...(대학교 이야기 아직 작성시작 못함)
+- 배드민턴 1년 *교양, 동아리, 동호회
+- 전공동아리 EL에 가입 - <a href="#">당시 동아리회장 Github</a>
 
 </div>
 </details>
