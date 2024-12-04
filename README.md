@@ -78,8 +78,11 @@
 <div markdown="1">
 
 - 배드민턴 1년 *교양, 동아리, 동호회
+- 외주 2년(41건), 수학학원 7개월, 수학과외 3개월, 편의점 3개월
 - 전공동아리 EL에 가입 - <a href="#">당시 동아리회장 Github</a>
-
+- 1학년 1학기 과제 (웹사이트 만들기) - 가구쇼핑몰(ikea 기반)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/retto">retto</a>
+- 
 </div>
 </details>
 
