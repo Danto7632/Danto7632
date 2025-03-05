@@ -75,15 +75,38 @@
 
 <details>
 <summary><h3>대학생</h3></summary>
-<details>
-<summary><h4>1학년</h4></summary>
 <div markdown="1">
 
 - 배드민턴 1년 *교양, 동아리, 동호회
 - 외주 2년(41건), 수학학원 7개월, 수학과외 3개월, 편의점 3개월
 - 전공동아리 EL에 가입 - <a href="https://github.com/asy047">당시 동아리회장 Github</a>
-- 1학년 1학기 과제 (웹사이트 만들기) - 가구쇼핑몰(ikea 기반)
+<details>
+<summary><h4>1학년</h4></summary>
+<div markdown="1">
+
+
+- 1학년 1학기 웹과제 - 가구쇼핑몰(ikea 기반)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/retto">retto</a>
+- 1학년 여름방학 팀프로젝트 - 잡다한 웹구현(망함)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/UniTechHub">UniTectHub</a>
+- 코딩 콘테스트 1번문제를 실수하여 2등상 수상
+- [ 2023.12.26~12.27 ] AI PD Lab BOOTCAMP *수료
+<br> 기획 프로젝트 : AI 스마트팜을 이용한 융합 서비스 - 팜와쓔
+</div>
+</details>
+<details>
+<summary><h4>2학년</h4></summary>
+<div markdown="1">
+
+- 2학년 1학기 웹과제 - 쇼핑몰(React, api 등)
+<br>개발 프로젝트 : 업로드고민중 - 이름없음.</a>
+- 2학년 1학기 IoT과제 - 작성예정
+</div>
+</details>
+<details>
+<summary><h4>3학년</h4></summary>
+<div markdown="1">
+
 - 
 </div>
 </details>
@@ -102,7 +125,7 @@
 - [ 2024.11.14 ] 교내 EXPO 졸업작품전시회 (대상) *대학 총장상
 - [ 2024.11.16 ] NextGen Startup 창업아이디어 경진대회 (우수상) *주최대학 총장상
 - [ 2024.12.27 ] 2024 전국 창의코딩 경진대회 (장려상) *주최대학 센터장상
-- [ 2024.01.10 ] Digi-STAR Program in JEJU 경진대회 (대상) *협의회장상
+- [ 2025.01.10 ] Digi-STAR Program in JEJU 경진대회 (대상) *협의회장상
 
 
 <br>
