@@ -84,7 +84,6 @@
 <summary><h4>1학년</h4></summary>
 <div markdown="1">
 
-
 - 1학년 1학기 웹과제 - 가구쇼핑몰(ikea 기반)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/retto">retto</a>
 - 1학년 여름방학 팀프로젝트 - 잡다한 웹구현(망함)
@@ -92,22 +91,20 @@
 - 코딩 콘테스트 1번문제를 실수하여 2등상 수상
 - [ 2023.12.26~12.27 ] AI PD Lab BOOTCAMP *수료
 <br> 기획 프로젝트 : AI 스마트팜을 이용한 융합 서비스 - 팜와쓔
+- 1학년 겨울방학 팀프로젝트 - 게임(뱀서장르)
+<br> 개발 프로젝트 : <a href="https://github.com/Danto7632/GDP">GDP</a>
 </div>
 </details>
 <details>
 <summary><h4>2학년</h4></summary>
 <div markdown="1">
 
+- 1학기 중 백준 시작 -> 실버3 달성
 - 2학년 1학기 웹과제 - 쇼핑몰(React, api 등)
 <br>개발 프로젝트 : 업로드고민중 - 이름없음.</a>
-- 2학년 1학기 IoT과제 - 작성예정
-</div>
-</details>
-<details>
-<summary><h4>3학년</h4></summary>
-<div markdown="1">
-
-- 
+- 2학년 1학기 IoT과제 - 자율주행로봇(최적탐색-미로알고리즘)
+<br>개발 프로젝트 : 업로드고민중 - BatsBot
+- 겨울방학 중 백준 - > 실버1 달성
 </div>
 </details>
 </details>
