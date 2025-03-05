@@ -75,6 +75,8 @@
 
 <details>
 <summary><h3>대학생</h3></summary>
+<details>
+<summary><h4>1학년</h4></summary>
 <div markdown="1">
 
 - 배드민턴 1년 *교양, 동아리, 동호회
@@ -84,6 +86,7 @@
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/retto">retto</a>
 - 
 </div>
+</details>
 </details>
 
 # 🏆 수상
