@@ -39,7 +39,7 @@
 - 복싱 3개월 *체육관
 - MMA 3개월 *체육관
 - 배드민턴 1년 *취미동아리
-- 정규 코딩동아리 NEWCOLLAR에 가입 - <a href="#">당시 동아리부장 Github</a>
+- 정규 코딩동아리 NEWCOLLAR에 가입 - <a href="https://github.com/wooj1nbot">당시 동아리부장 Github</a>
 <br>타 코딩동아리로의 인원 분산으로 우리 동아리 신입생은 나를 포함하여 **3명**
 <br>친구 1과 친구2는 이후 **경희대학교**와 **서울대학교**에 진학
 - <a href="https://school.programmers.co.kr/learn/courses/2/2-%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8">프로그래머스 파이썬 입문 완강</a>
@@ -81,7 +81,7 @@
 
 - 배드민턴 1년 *교양, 동아리, 동호회
 - 외주 2년(41건), 수학학원 7개월, 수학과외 3개월, 편의점 3개월
-- 전공동아리 EL에 가입 - <a href="#">당시 동아리회장 Github</a>
+- 전공동아리 EL에 가입 - <a href="https://github.com/asy047">당시 동아리회장 Github</a>
 - 1학년 1학기 과제 (웹사이트 만들기) - 가구쇼핑몰(ikea 기반)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/retto">retto</a>
 - 
