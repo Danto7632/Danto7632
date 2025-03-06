@@ -35,8 +35,9 @@
 <details>
 <summary><h3>고등학생</h3></summary>
 <div markdown="1">
-  
+
 - 복싱 3개월 *체육관
+
 - MMA 3개월 *체육관
 - 배드민턴 1년 *취미동아리
 - 정규 코딩동아리 NEWCOLLAR에 가입 - <a href="https://github.com/wooj1nbot">당시 동아리부장 Github</a>
