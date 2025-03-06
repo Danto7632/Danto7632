@@ -54,21 +54,22 @@
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/number_guess_game">number_guess_game</a>
 - 템플릿 기반 미래의 회사 웹페이지 개발(<a href="https://www.free-css.com/free-css-templates/page224/mogo">무료 템플릿 활용</a>)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/OtterCompany">OtterCompany</a>
-- 삼성 주니어 SW 창작대회 예선탈락 (아이디어 서류탈락)
+- 2021 삼성 주니어 SW 창작대회 예선탈락 (아이디어 서류탈락)
 - 영남이공대 산업현장 탐방 및 직무 멘토링 프로그램
 <br>- [ 2021.08.18 ~ 08.19 ] IoT SW 개발자 체험(아두이노, 엔트리) *수료
 <br>- [ 2021.08.23 ~ 08.25 ] 정보보호 전문가 - 화이트해커(WebGoat) *수료
 <br>- [ 2021.08.30 ~ 08.31 ] AI SW개발자 체험(K-means, K-NN) *수료
-- NYPC 2021 예선탈락 (당시 어렵다고 느꼈고, 멘토링과 날짜가 겹침)
+- 2021 NYPC 예선탈락 (당시 어렵다고 느꼈고, 멘토링과 날짜가 겹침)
 - 해킹방어대회 CTF 미수상 (4문제부터 수상권, but 3문제 풀었음)
-- FTC-Qualcomm **장학팀** 선정 이후 로봇개발
+- FTC-Qualcomm **장학팀(13인)** 선정 이후 로봇개발
+<br> 여담 :  팀 구성일이 13일 금요일 이었고, 인원도 13명이라 팀 명을 '13인의 금요일'로 지음.
 - 자율동아리  Programers 개설 - **앱개발 학생동아리 선정** *교육청
 - "C#을 활용한 몬티홀 문제 증명"이라는 수학체험 부스 운영 - 최종 3위
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/MontyHall">MontyHall</a>
 - 창업 아이디어 교내 1위 -> 학교대표 <a href="https://www.crowd.or.kr/contest/view.php?no=36&item_no=184">모의 크라우드 펀딩대회</a> - 최종6위
 - 플래피버드 카피코딩(<a href="https://www.youtube.com/watch?v=EqoU1PodQQ4">유튜브</a>)으로 수달의 모험 개발
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/otter_s_journey">otter_s_journey</a>
-- 정보올림피아드 미수상 (당시 어렵다고 느꼈음)
+- 2022 KOI 정보올림피아드 미수상 (당시 어렵다고 느꼈음)
 
 </div>
 </details>
@@ -80,19 +81,23 @@
 - 배드민턴 1년 *교양, 동아리, 동호회
 - 외주 2년(41건), 수학학원 7개월, 수학과외 3개월, 편의점 3개월
 - 전공동아리 EL에 가입 - <a href="https://github.com/asy047">당시 동아리회장 Github</a>
+- [ 1학년 2학기 ~ 2학년 2학기 ] **반대표** 활동
+- [ 1학년 2학기 ~ 2학년 1학기 ] 동아리 EL **홍보차장** 활동
+- [ 2학년 2학기 ] 프로그래밍언어실습(C언어) 튜터링 **튜터**로 활동
+- [ 2학년 2학기 ~ 현재 ] 동아리 EL **홍보부장** 활동
 <details>
 <summary><h4>1학년</h4></summary>
 <div markdown="1">
 
-- 1학년 1학기 웹과제 - 가구쇼핑몰(ikea 기반)
+- 1학년 1학기 웹과제(2인) - 가구쇼핑몰(ikea 기반)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/retto">retto</a>
-- 1학년 여름방학 팀프로젝트 - 잡다한 웹구현(망함)
+- 1학년 여름방학 팀프로젝트(3인) - 잡다한 웹구현(망함)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/UniTechHub">UniTectHub</a>
 - 코딩 콘테스트 1번문제를 실수하여 2등상 수상
 - [ 2023.12.26~12.27 ] AI PD Lab BOOTCAMP *수료
-<br> 기획 프로젝트 : AI 스마트팜을 이용한 융합 서비스 - 팜와쓔
-- 1학년 겨울방학 팀프로젝트 - 게임(뱀서장르)
-<br> 개발 프로젝트 : <a href="https://github.com/Danto7632/GDP">GDP</a>
+<br>기획 프로젝트 : AI 스마트팜을 이용한 융합 서비스 - 팜와쓔
+- 1학년 겨울방학 팀프로젝트(2인) - 게임(뱀서장르)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/GDP">GDP</a>
 </div>
 </details>
 <details>
@@ -104,10 +109,26 @@
 <br>개발 프로젝트 : 업로드고민중 - 이름없음.</a>
 - 2학년 1학기 IoT과제 - 자율주행로봇(최적탐색-미로알고리즘)
 <br>개발 프로젝트 : 업로드고민중 - BatsBot
-- [ 2024.11.15~11.16 ] 창업캠프 - 작성예정
+- [ 2024.11.15~11.16 ] NextGen Startup 창업캠프 *수료
+<br>기획 프로젝트 : 노코드 머신러닝 -  NoCodeML
+- 2학년 여름방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.1(React)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/ELPromotionPage">ELPromotionPage</a>
+<br>
+- 2024 POSTECT X OIBC CHALLENGE(5인) - 최종 18위(17위까지 입상)
+<br>대회 내용 : 기상예측데이터를 활용하여 전력시장 예측 모델을 만들고 5일간 결과제출
+- [ 2024.11.21~11.23 ] 제주형 스마트팩토리 캠프 *수료
+- 2학년 2학기 백엔드과제(2인) - 커스텀 로또번호생성(jsp, api 등)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/jsp_lotto_captain">jsp_lotto_captain</a>
 - **EXPO 프로젝트**
 <br> - 작성예정
+- 코딩 경진대회 모든(6) 문제 해결 - 전체 17~26위, 교내 3위로 수상
+<br> 여담 : 동점일때의 심사기준을 제공하지 않았지만, 숏코딩으로 평가한 것으로 예상됨.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나는 C언어라서 코드길이가 python으로 응시한 대부분의 학생들에 비해 불리했음.
+- 제주도 경진대회
 - 겨울방학 중 백준 - > 실버1 달성
+- 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)
+<br>개발 프로젝트 : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
+<br>
 </div>
 </details>
 </details>
