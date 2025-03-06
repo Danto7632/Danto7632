@@ -113,7 +113,6 @@
 <br>기획 프로젝트 : 노코드 머신러닝 -  NoCodeML
 - 2학년 여름방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.1(React)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/ELPromotionPage">ELPromotionPage</a>
-<br>
 - 2024 POSTECT X OIBC CHALLENGE(5인) - 최종 18위(17위까지 입상)
 <br>대회 내용 : 기상예측데이터를 활용하여 전력시장 예측 모델을 만들고 5일간 결과제출
 - [ 2024.11.21~11.23 ] 제주형 스마트팩토리 캠프 *수료
