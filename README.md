@@ -40,12 +40,10 @@
 - MMA 3개월 *체육관
 - 배드민턴 1년 *취미동아리
 - 정규 코딩동아리 NEWCOLLAR에 가입 - <a href="https://github.com/wooj1nbot">당시 동아리부장 Github</a>
-<br>여담 1 : 타 코딩동아리로의 인원 분산으로 우리 동아리 신입생은 나를 포함하여 **3명**
-<br>여담 2 : 친구1과 친구2는 이후 **경희대학교**와 **서울대학교**에 진학
+<br>여담 : 타 코딩동아리로의 인원 분산으로 우리 동아리 신입생은 나를 포함하여 **3명**
 - [ 2학년 ] 동아리 NEWCOLLAR **부장** 활동
-- [ 2학년 ] 자율동아리  Programers **개설** - 앱개발 학생동아리 선정 *교육청소속
+- [ 2학년 ] 자율동아리  Programers **개설(부장)** - 앱개발 학생동아리 선정 *교육청소속
 </div>
-<details>
 <summary><h4>1학년</h4></summary>
 <div markdown="1">
 
@@ -58,8 +56,6 @@
 - FTC-Qualcomm **장학팀**(13인) 선정 이후 로봇개발
 <br> 여담 :  팀 구성일이 13일 금요일 이었고, 인원도 13명이라 팀 명을 '13인의 금요일'로 지음
 </div>
-</details>
-<details>
 <summary><h4>2학년</h4></summary>
 <div markdown="1">
 
@@ -78,8 +74,6 @@
 - 2021 NYPC 예선탈락 (당시 어렵다고 느꼈고, 멘토링과 날짜가 겹침)
 - 해킹방어대회 CTF 미수상 (4문제부터 수상권, but 3문제 풀었음)
 </div>
-</details>
-<details>
 <summary><h4>3학년</h4></summary>
 <div markdown="1">
 
@@ -92,7 +86,6 @@
 - 2022 KOI 정보올림피아드 미수상 (당시 어렵다고 느꼈음)
 
 </div>
-</details>
 </details>
 
 <details>
@@ -107,7 +100,6 @@
 - [ 2학년 2학기 ] 프로그래밍언어실습(C언어) 튜터링 **튜터**로 활동
 - [ 2학년 2학기 ~ 현재 ] 동아리 EL **홍보부장** 활동
 </div>
-<details>
 <summary><h4>1학년</h4></summary>
 <div markdown="1">
 
@@ -121,8 +113,6 @@
 - 1학년 겨울방학 팀프로젝트 - 게임(뱀서장르)
 <br>개발 프로젝트(2인) : <a href="https://github.com/Danto7632/GDP">GDP</a>
 </div>
-</details>
-<details>
 <summary><h4>2학년</h4></summary>
 <div markdown="1">
 
@@ -157,7 +147,6 @@
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
 <br>
 </div>
-</details>
 </details>
 
 # 🏆 수상
