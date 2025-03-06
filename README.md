@@ -115,14 +115,14 @@
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/ELPromotionPage">ELPromotionPage</a>
 - 2024 POSTECT X OIBC CHALLENGE(5인) - 최종 18위(17위까지 입상)
 <br>대회 내용 : 기상예측데이터를 활용하여 전력시장 예측 모델을 만들고 5일간 결과제출
+<br>개발 모델 : 업로드 예정
 - [ 2024.11.21~11.23 ] 제주형 스마트팩토리 캠프 *수료
-- 2학년 2학기 백엔드과제(2인) - 커스텀 로또번호생성(jsp, api 등)
+- 2학년 2학기 백엔드과제(2인) - 커스텀 로또사이트(jsp, api 등)
 <br>개발 프로젝트 : <a href="https://github.com/Danto7632/jsp_lotto_captain">jsp_lotto_captain</a>
 - **EXPO 프로젝트**
 <br> - 작성예정
 - 코딩 경진대회 모든(6) 문제 해결 - 전체 17~26위, 교내 3위로 수상
-<br> 여담 : 동점일때의 심사기준을 제공하지 않았지만, 숏코딩으로 평가한 것으로 예상됨.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나는 C언어라서 코드길이가 python으로 응시한 대부분의 학생들에 비해 불리했음.
+<br> 여담 : 날 제외한 수상권자들은 다 python을 씀, 동점일때는 코드길이로 평가한 것으로 예상됨
 - 제주도 경진대회
 - 겨울방학 중 백준 - > 실버1 달성
 - 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)
