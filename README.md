@@ -62,9 +62,9 @@
 - 앱인벤터기반 '공 튀기기 게임' 개선
 <br>개발프로젝트(1인) : <a href="https://github.com/Danto7632/bounceball">bounceball</a>
 
-- python기반 '업다운 게임' 개발
+- python프로젝트 '업다운 게임' 개발
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/number_guess_game">number_guess_game</a>
-- 미래의 회사 웹페이지 개발
+- 템플릿기반 '미래의 회사 웹페이지' 개발
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/OtterCompany">OtterCompany</a>
 - 2021 삼성 주니어 SW 창작대회 예선탈락 (아이디어 서류탈락)
 - 영남이공대 산업현장 탐방 및 직무 멘토링 프로그램
