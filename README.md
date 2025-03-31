@@ -72,13 +72,13 @@
 <br>- [ 2021.08.23 ~ 08.25 ] 정보보호 전문가 - 화이트해커(WebGoat) *수료
 <br>- [ 2021.08.30 ~ 08.31 ] AI SW개발자 체험(K-means, K-NN) *수료
 - 2021 NYPC 예선탈락 (당시 어렵다고 느꼈고, 멘토링과 날짜가 겹침)
+- "C#을 활용한 몬티홀 문제 증명"이라는 수학체험 부스 운영 - 최종 3위
+<br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/MontyHall">MontyHall</a>
 - 해킹방어대회 CTF 미수상 (4문제부터 수상권, but 3문제 풀었음)
+
 </div>
 <summary><h4>3학년</h4></summary>
 <div markdown="1">
-
-- "C#을 활용한 몬티홀 문제 증명"이라는 수학체험 부스 운영 - 최종 3위
-<br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/MontyHall">MontyHall</a>
 
 - 창업 아이디어 교내 1위 -> 학교대표 모의 크라우드 펀딩 대회 - 최종6위
 - 플래피버드 카피코딩(<a href="https://www.youtube.com/watch?v=EqoU1PodQQ4">유튜브</a>)으로 수달의 모험 개발
