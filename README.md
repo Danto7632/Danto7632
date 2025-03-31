@@ -109,10 +109,10 @@
 <div markdown="1">
 
 - 1학년 1학기 웹과제 - 가구쇼핑몰(ikea 기반)
-<br>개발 프로젝트(2인,팀장) : <a href="https://github.com/Danto7632/retto">retto</a>
+<br>개발 프로젝트(2인,팀장) : <a href="https://github.com/Danto7632/retto">retto</a>(현재비공개)
 
 - 1학년 여름방학 팀프로젝트 - 잡다한 웹구현(망함)
-<br>개발 프로젝트(3인,팀장) : <a href="https://github.com/Danto7632/UniTechHub">UniTectHub</a>
+<br>개발 프로젝트(3인,팀장) : <a href="https://github.com/Danto7632/UniTechHub">UniTectHub</a>(현재비공개)
 - [ 2023.12.26 ~ 12.27 ] AI PD Lab BOOTCAMP(1박2일)
 <br>기획 프로젝트(6인) : AI 스마트팜을 이용한 융합 서비스 - 팜와쓔
 - 1학년 겨울방학 팀프로젝트 - 게임(뱀서장르)
@@ -138,7 +138,7 @@
 - **[ 2024.11.06 ~ 11.08 ] <a href="https://uicexpo.org/">산학연협력EXPO</a> 부산 BEXCO 작품전시**
 - **2024 POSTECT X OIBC CHALLENGE - 200여 팀 중 최종 18위(17위까지 입상)**
 <br>대회 내용 : 기상예측데이터를 활용하여 전력시장 예측 모델을 만들고 5일간 결과제출
-<br>개발 모델(5인, 팀장) : 업로드 예정
+<br>개발 모델(5인, 팀장) : <a href="https://github.com/Danto7632/2024_6th_OIBC_EL">2024_6th_OIBC_EL</a>
 - [ 2024.11.21 ~ 11.23 ] 제주형 스마트팩토리 캠프(2박3일) *수료
 - 2학년 2학기 백엔드과제 - 커스텀 로또사이트(jsp, api 등)
 <br>개발 프로젝트(2인) : <a href="https://github.com/Danto7632/jsp_lotto_captain">jsp_lotto_captain</a>
