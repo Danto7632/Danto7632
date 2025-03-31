@@ -52,7 +52,6 @@
 
 - [ 2020.11.21 ~ 11.27 ] 동계 SW융합 창작 캠프 *수료
 <br>교육과정 : 인공지능 모델을 적용한 나만의 홈페이지 만들기
-<br>교육내용 : html, css, <a href="https://teachablemachine.withgoogle.com/">Teachable Machine</a> - **우수학생** 선정 *AI로봇큐브 상품
 <br> 개발프로젝트(1인) : <a href="https://github.com/Danto7632/template">template</a>
 - FTC-Qualcomm **장학팀**(13인) 선정 이후 로봇개발
 <br> 여담 :  팀 구성일이 13일 금요일 이었고, 인원도 13명이라 팀 명을 '13인의 금요일'로 지음
@@ -60,12 +59,12 @@
 <summary><h4>2학년</h4></summary>
 <div markdown="1">
 
-- 앱인벤터기반 '공 튀기기 게임' 카피 코딩(<a href="https://kujung.tistory.com/104">블로그</a>) - 게임방식수정, 기능추가
+- 앱인벤터기반 '공 튀기기 게임' 개선
 <br>개발프로젝트(1인) : <a href="https://github.com/Danto7632/bounceball">bounceball</a>
 
-- tkinter모듈을 활용한 python 기반 GUI 형태의 '업다운 게임'을 구현
+- python기반 '업다운 게임' 개발
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/number_guess_game">number_guess_game</a>
-- 템플릿 기반 미래의 회사 웹페이지 개발(<a href="https://www.free-css.com/free-css-templates/page224/mogo">무료 템플릿 활용</a>)
+- 미래의 회사 웹페이지 개발
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/OtterCompany">OtterCompany</a>
 - 2021 삼성 주니어 SW 창작대회 예선탈락 (아이디어 서류탈락)
 - 영남이공대 산업현장 탐방 및 직무 멘토링 프로그램
