@@ -104,6 +104,7 @@
 - [ 2학년 겨울방학 ] 백준 -> 실버1 달성
 - [ 3학년 1학기 ] 백준 -> 골드 달성
 - [ 2학년 겨울방학 ] 정보처리산업기사 필기 합격
+- [ 3학년 1학기 ] 정보처리산업기사 실기 응시(결과 기다리는중)
 </div>
 <summary><h4>1학년</h4></summary>
 <div markdown="1">
@@ -148,7 +149,15 @@
 - [ 2025.01.09 ~ 01.10 ] 지산학 한마당 Gvalley 작품전시
 - 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
-<br>
+</div>
+<summary><h4>3학년</h4></summary>
+<div markdown="1">
+
+- 3학년 1학기 졸업작품 - Zivorp
+<br>개발 프로젝트(5인,팀장) : 작성예정
+
+- 3학년 1학기 ict한이음 - Navis
+<br>개발 프로젝트(5인) : 작성예정
 </div>
 </details>
 
