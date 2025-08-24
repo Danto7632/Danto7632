@@ -137,7 +137,7 @@
 - **[2024.04.16 ~ 10.22 ] EXPO 프로젝트 - AI 손 발달 및 재활 운동 플랫폼**
 <br> 개발 프로젝트(14인, 팀장) : <a href="https://github.com/Danto7632/leaf_tale">leaf_tale</a>
 <br>여담 : 2025년 02월 21일자를 기준으로 지식재산권 특허 출원 신청
-- **[ 2024.10.22 ~ 10.25 ] <a href="https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/">KES2024(한국전자전)</a> 서울 KOEX 작품전시**
+- **[ 2024.10.22 ~ 10.25 ] <a href="https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/">KES2024(한국전자전)</a> 서울 COEX 작품전시**
 <br>여담 : 전시이후 <a href="https://cornestech.co.jp/">일본의 LeapMotion 유통사</a>와의 컨택이 있었음
 - **[ 2024.11.06 ~ 11.08 ] <a href="https://uicexpo.org/">산학연협력EXPO</a> 부산 BEXCO 작품전시**
 - **[ 2024.11.11 ~ 11.15 ] <a href="https://dataen.ai/challenge/history/2024">2024 POSTECT X OIBC CHALLENGE</a> - 200여 팀 중 최종 18위(17위까지 입상)**
@@ -175,7 +175,7 @@
 - 3학년 여름방학 창업주간MVP모델(하루) - 수면장애 개선 앱서비스
 <br> 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/cansleep">cansleep</a>
 - [ 2025.08.08 ~ 08.18 ] NYPC \<CODE BATTLE> 온라인 라운드 *심사중
-<br> 개발 프로젝트(4인, 팀장) : Yacht Auction - AI model(작성예정)
+<br> 개발 모델(4인, 팀장) : Yacht Auction - Game AI(작성예정)
 - [ 2025.08.22 ~ 08.23 ] 호남is해커톤(1박2일) *수료
 <br> 개발 프로젝트(4인, 팀장) : HealthSnap(작성예정)
 
