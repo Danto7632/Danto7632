@@ -5,7 +5,7 @@
 # 🦦 경험 
 
 <details>
-<summary><h3>초등학생</h3></summary>
+<summary><h3>초등학생</h3></summary> 
 <div markdown="1">
 
 - 태권도 1년 (1단) *체육관
