@@ -147,7 +147,7 @@
 <br>기획 프로젝트(4인, 팀장) : 노코드 머신러닝 NoCodeML(업로드고민중)
 - [ 2024.11.21 ~ 11.23 ] 제주형 스마트팩토리 캠프(2박3일) *수료
 - 2학년 2학기 백엔드과제 - 커스텀 로또사이트(jsp, api 등)
-<br>개발 프로젝트(2인) : <a href="https://github.com/Danto7632/jsp_lotto_captain">jsp_lotto_captain</a>
+<br>개발 프로젝트(2인) : <a href="https://github.com/ghkdtjfxkd/jsp-lotto-captain">jsp_lotto_captain</a>
 - **[ 2025.01.06 ~ 01.10 ] Digi-STAR Program in JEJU 프로그램(4박5일)**
 <br>개발 프로젝트(8인, 팀장) : 생성형 AI 기반 제주관광코스(업로드안할예정)
 <br>여담 : 각자의 역할을 착실히 수행하는 팀플을 경험했고, 잊지 못할 추억임
@@ -178,7 +178,7 @@
 - [ 2025.08.08 ~ 08.18 ] NYPC \<CODE BATTLE> 온라인 라운드 *심사중
 <br> 개발 모델(4인, 팀장) : Yacht Auction - Game AI(작성예정)
 - [ 2025.08.22 ~ 08.23 ] 호남is해커톤(1박2일) *수료
-<br> 개발 프로젝트(4인, 팀장) : HealthSnap(작성예정)
+<br> 개발 프로젝트(4인->2인, 팀장) : <a href="https://github.com/Danto7632/HealthSnap">HealthSnap</a>
 - [ 2025.08.26 ~ 08.27 ] Next Level 취업캠프 *수료
 
 </div>
