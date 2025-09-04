@@ -224,7 +224,7 @@
 
   [![Solved.ac
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632)](https://solved.ac/danto7632)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&theme=whit&langs_count=6)](https://github.com/danto7632)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&theme=white&langs_count=6)](https://github.com/danto7632)
 
 ![c](https://img.shields.io/badge/C-561550?style=for-the-badge&logo=c&logoColor=white)
 ![cpp](https://img.shields.io/badge/C++-462699?style=for-the-badge&logo=C%2B%2B&logoColor=white)
