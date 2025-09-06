@@ -175,8 +175,7 @@
 - [ 2025.07.14 ~ 07.18 ] [A4]AX START UP(4박5일) *수료
 - 3학년 여름방학 창업주간MVP모델(하루) - 수면장애 개선 앱서비스
 <br> 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/cansleep">cansleep</a>
-- [ 2025.08.08 ~ 08.18 ] NYPC \<CODE BATTLE> 온라인 라운드 *심사중
-<br> 개발 모델(4인, 팀장) : Yacht Auction - Game AI(작성예정)
+- [ 2025.08.08 ~ 08.18 ] NYPC \<CODE BATTLE> 온라인 라운드 *광탈
 - [ 2025.08.22 ~ 08.23 ] 호남is해커톤(1박2일) *수료
 <br> 개발 프로젝트(4인->2인, 팀장) : <a href="https://github.com/Danto7632/HealthSnap">HealthSnap</a>
 - [ 2025.08.26 ~ 08.27 ] Next Level 취업캠프 *수료
