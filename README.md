@@ -180,7 +180,7 @@
 <br> 개발 프로젝트(4인->2인, 팀장) : <a href="https://github.com/Danto7632/HealthSnap">HealthSnap</a>
 - [ 2025.08.26 ~ 08.27 ] Next Level 취업캠프 *수료
 - [ 2025.09.19 ~ 09.20 ] 로컬잇슈! 창업캠프 *수료
-<br> 개발 프로젝트(1안) : <a href="https://github.com/Danto7632/LOOPI">LOOPI</a>
+<br> 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/LOOPI">LOOPI</a>
 
 </div>
 </details>
