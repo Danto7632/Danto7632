@@ -247,7 +247,7 @@
   <div style="text-align: center;">
     <br>
     <img src="https://img.shields.io/badge/C-561550?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-462699?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-462699?style=for-the-badge&logo=Cx%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <br><br>
@@ -262,11 +262,7 @@
 
 </div>
 
-
 </div>
-
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
