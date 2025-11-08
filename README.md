@@ -137,9 +137,9 @@
 - **[2024.04.16 ~ 10.22 ] EXPO 프로젝트 - AI 손 발달 및 재활 운동 플랫폼**
 <br> 개발 프로젝트(14인, 팀장) : <a href="https://github.com/Danto7632/leaf_tale">leaf_tale</a>
 <br>여담 : 2025년 02월 21일자를 기준으로 지식재산권 특허 출원 신청
-- **[ 2024.10.22 ~ 10.25 ] <a href="https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/">KES2024(한국전자전)</a> 서울 COEX 작품전시**
+- **[ 2024.10.22 ~ 10.25 ] <a href="https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/">KES2024(한국전자전)</a> 서울 COEX 작품전시**(Leaf_tale)
 <br>여담 : 전시이후 <a href="https://cornestech.co.jp/">일본의 LeapMotion 유통사</a>와의 컨택이 있었음
-- **[ 2024.11.06 ~ 11.08 ] <a href="https://uicexpo.org/">산학연협력EXPO</a> 부산 BEXCO 작품전시**
+- **[ 2024.11.06 ~ 11.08 ] <a href="https://uicexpo.org/">산학연협력EXPO</a> 부산 BEXCO 작품전시**(Leaf_tale)
 - **[ 2024.11.11 ~ 11.15 ] <a href="https://dataen.ai/challenge/history/2024">2024 POSTECT X OIBC CHALLENGE</a> - 200여 팀 중 최종 18위(17위까지 입상)**
 <br>대회 내용 : 기상예측데이터를 활용하여 전력시장 예측 모델을 만들고 5일간 결과제출
 <br>개발 모델(5인, 팀장) : <a href="https://github.com/Danto7632/2024_6th_OIBC_EL">2024_6th_OIBC_EL</a>
@@ -151,7 +151,7 @@
 - **[ 2025.01.06 ~ 01.10 ] Digi-STAR Program in JEJU 프로그램(4박5일)**
 <br>개발 프로젝트(8인, 팀장) : 생성형 AI 기반 제주관광코스(업로드안할예정)
 <br>여담 : 각자의 역할을 착실히 수행하는 팀플을 경험했고, 잊지 못할 추억임
-- [ 2025.01.09 ~ 01.10 ] 지산학 한마당 Gvalley 작품전시
+- [ 2025.01.09 ~ 01.10 ] 제 1회 지산학 한마당 Gvalley 작품전시(Leaf_tale)
 - 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
 </div>
@@ -167,11 +167,10 @@
 - 3학년 1학기 스터디관리(하루) - 스터디원 solvedac 랭킹제공(티어, 스트릭) 플랫폼
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/solvedac_profile">solvedac_profile</a>
 - [ 2025.05.09 ] 2025년 한이음 드림업 오프라인 AWS 1차 교육 *수료
-- **[ 2025.05.15 ~ 진행중 ] 2025 학생창업유망팀 300+ 성장트랙 B \*최종선발**
-<br>여담 : 도약트랙 일반을 불합격하여, 성장트랙 B로 재신청
+- **[ 2025.05.15 ~ 10.31 ] 2025 학생창업유망팀 300+ 성장트랙 B 최종선발 \*인증서**(Zivorp)
 - [ 2025.05.22 ~ 05.24 ] 스마트팩토리 융합 파이썬 교육 캠프(2박3일) *이중수료
-- **[ 2025.07.04 ] 2025 한국컴퓨터종합학술대회 (KCC2025) 전시 및 발표**
-<br>여담 : 논문게재 완료 - [생성형 AI를 활용한 자동 스프린트 계획 및 프로젝트 관리 자동화 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318706)
+- **[ 2025.07.04 ] 2025 한국컴퓨터종합학술대회 (KCC2025) 전시 및 발표**(Navis)
+<br>집필 논문(6인) : [생성형 AI를 활용한 자동 스프린트 계획 및 프로젝트 관리 자동화 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318706)
 - [ 2025.07.14 ~ 07.18 ] [A4]AX START UP(4박5일) *수료
 - 3학년 여름방학 창업주간MVP모델(하루) - 수면장애 개선 앱서비스
 <br> 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/cansleep">cansleep</a>
@@ -181,6 +180,12 @@
 - [ 2025.08.26 ~ 08.27 ] Next Level 취업캠프 *수료
 - [ 2025.09.19 ~ 09.20 ] 로컬잇슈! 창업캠프 *수료
 <br> 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/LOOPI">LOOPI</a>
+- **[ 2025.11.03 ~ 11.14 ] 2025 POSTECT X OIBC CHALLENGE**
+<br>대회 내용 : 환경센서 미설치 발전소의 일사량을 정밀하게 추정하는 모델 개발
+<br>개발 모델(4인, 팀장) : 업로드예정
+- [2025.11.20 ~ 11.21 ] 2025 Digitech 캡스톤디자인 경진대회 작품전시(Zivorp) -예정
+- **[2025.11.28 ~ 11.29 ] 2025 대한전자공학회 추계학술대회 전시 및 발표**(Zivorp) -예정
+<br>집필 논문(6인,주저자) : 업로드예정
 
 </div>
 </details>
@@ -224,6 +229,7 @@
 
 <div align = "center">
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danto7632&show_icons=true&theme=gruvbox)](https://github.com/danto7632)
   [![Solved.ac
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632)](https://solved.ac/danto7632)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=6)](https://github.com/danto7632)
@@ -244,5 +250,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danto7632&theme=solarized-light&repo=github-readme-stat)](https://github.com/anuraghazra/github-readme-stats)--!>
