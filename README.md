@@ -226,30 +226,31 @@
 <br>
 
 <div align="center">
-
   <table>
     <tr>
-      <td align="center">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=danto7632&show_icons=true&theme=gruvbox" alt="GitHub stats">
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=8" alt="Top Langs">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/danto7632">
+      <td>
+        <a href="https://solved.ac/danto7632">
           <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632" alt="solved.ac">
         </a>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=8" alt="Top Langs">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/C-561550?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/C++-462699?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white">
-        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><br><br>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
