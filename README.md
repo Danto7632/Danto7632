@@ -230,23 +230,43 @@
 <div align = "center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danto7632&show_icons=true&theme=gruvbox)](https://github.com/danto7632)
-  [![Solved.ac
-프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632)](https://solved.ac/danto7632)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=6)](https://github.com/danto7632)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=8)
+<div style="display: inline-flex; justify-content: center; align-items: flex-start; gap: 25px;">
 
-![c](https://img.shields.io/badge/C-561550?style=for-the-badge&logo=c&logoColor=white)
-![cpp](https://img.shields.io/badge/C++-462699?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
-![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-<br>
+  <!-- 왼쪽: Top Langs -->
+  <div style="margin-left:80px;">
+    <a href="https://github.com/danto7632">
+      <img
+        src="https://mazassumnida.wtf/api/v2/generate_badge?boj=danto7632"
+        alt="solved.ac"
+      />
+    </a>
+  </div>
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  <!-- 오른쪽: 뱃지들 -->
+  <div style="text-align: center;">
+    <br>
+    <img src="https://img.shields.io/badge/C-561550?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-462699?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <br><br>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  </div>
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![jupyternotebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+</div>
+
+
+</div>
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
 </div>
