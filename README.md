@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0fe0ca,50:fbbf24,100:ff9f00&height=250&section=header&text=Welcome%20!%20૮𖦹_×ა&fontSize=58&fontAlignY=34&fontColor=ffffff&desc=프로젝트를%20끝까지%20책임지는,%20천재%20성장형%20올라운더%20개발자입니다.&descSize=18&descAlignY=63&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0fe0ca,50:fbbf24,100:ff9f00&height=220&section=header&text=Welcome%20!%20૮𖦹_×ა&fontSize=64&fontAlignY=30&fontColor=ffffff&desc=프로젝트를%20끝까지%20책임지는,%20천재%20성장형%20올라운더%20개발자입니다.&descSize=20&descAlignY=57&animation=fadeIn)
 ---
 
 ## 🦦 경험 (Experience)
