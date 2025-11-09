@@ -40,11 +40,12 @@
 - [ 2학년 ] 동아리 NEWCOLLAR **부장** 활동
 - [ 2학년 ~ 3학년 ] 자율동아리  Programmers **개설 및 부장** 활동 - 앱개발 학생동아리 선정 ***교육청소속**
 - 희망진로 : 프로그래머(1,2,3학년)
-<summary><h4>📌 1학년</h4></summary>
+
+<h4>📌 1학년</h4>
 
 - <a href="https://school.programmers.co.kr/learn/courses/2/2-%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8">프로그래머스 파이썬 입문 완강</a>
 
-<summary><h4>📌 2학년</h4></summary>
+<h4>📌 2학년</h4>
 
 - 앱인벤터기반 '공 튀기기 게임' 개선   
 개발프로젝트(1인) : <a href="https://github.com/Danto7632/bounceball">bounceball</a>
@@ -60,7 +61,7 @@
 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/MontyHall">MontyHall</a>
 - 해킹방어대회 CTF 미수상 (4문제부터 수상권, but 3문제 풀었음)
 
-<summary><h4>📌 3학년</h4></summary>
+<h4>📌 3학년</h4>
 
 - 창업 아이디어 교내 1위 -> 학교대표 모의 크라우드 펀딩 대회 - 최종6위
 
