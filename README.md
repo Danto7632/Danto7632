@@ -133,7 +133,7 @@
 - 2학년 여름방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.1(React)
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage">ELPromotionPage</a>
 - **[2024.04.16 ~ 10.22 ] EXPO 프로젝트 - AI 손 발달 및 재활 운동 플랫폼**
-<br> 개발 프로젝트(14인, 팀장) : <a href="https://github.com/Danto7632/leaf_tale">leaf_tale</a>
+<br> 개발 프로젝트(14인, 팀장) : <a href="https://github.com/Danto7632/LeafTale">LeafTale</a>
 <br>여담 : 2025년 02월 21일자를 기준으로 지식재산권 특허 출원 신청
 - **[ 2024.10.22 ~ 10.25 ] <a href="https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/">KES2024(한국전자전)</a> 서울 COEX 작품전시**(Leaf_tale)
 <br>여담 : 전시이후 <a href="https://cornestech.co.jp/">일본의 LeapMotion 유통사</a>와의 컨택이 있었음
