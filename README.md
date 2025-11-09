@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=200&section=header&text=김인성's%20Github%20&fontSize=60&fontAlignY=40&desc=천재%20성장형%20올라운더%20개발자%20૮𖦹_×ა&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0fe0ca,50:fbbf24,100:ff9f00&height=250&section=header&text=Welcome%20!%20૮𖦹_×ა&fontSize=58&fontAlignY=34&fontColor=ffffff&desc=프로젝트를%20끝까지%20책임지는,%20천재%20성장형%20올라운더%20개발자입니다.&descSize=18&descAlignY=63&animation=fadeIn)
+---
 
 ## 🦦 경험 (Experience)
 
@@ -86,8 +87,7 @@
 - [ 3학년 1학기 ] 자료구조(+코테) 스터디 **운영**
 - [ 3학년 1학기 ~ 3학년 2학기 ] D.StartupZone **대표**(교내 창업지원팀)
 
-<details>
-<summary><h4>🧩 1학년</h4></summary>
+<h4>🧩 1학년</h4>
 
 - [ 2023.04.17 ~ 06.12 ] 1학년 1학기 웹과제 - 가구쇼핑몰(ikea 기반)   
 개발 프로젝트(4인, 팀장) : <a href="https://github.com/Danto7632/retto">retto</a>(현재비공개)
@@ -98,10 +98,8 @@
 기획 프로젝트(6인) : AI 스마트팜을 이용한 융합 서비스 - 팜와쓔(업로드안할예정)
 - [ 2024.01.09 ~ 02.29 ] 1학년 겨울방학 팀프로젝트 - 게임(뱀서장르)   
 개발 프로젝트(2인) : <a href="https://github.com/Danto7632/GDP">GDP</a>
-</details>
 
-<details>
-<summary><h4>🧩 2학년</h4></summary>
+<h4>🧩 2학년</h4>
 
 - 2학년 1학기 웹과제 - 쇼핑몰(React, api 등)   
 개발 프로젝트(1인) : 이름없음(업로드안할예정)
@@ -123,10 +121,8 @@
 <br>여담 : 각자의 역할을 착실히 수행하는 팀플을 경험했고, 잊지 못할 추억임
 - 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)   
 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
-</details>
 
-<details>
-<summary><h4>🧩 3학년</h4></summary>
+<h4>🧩 3학년</h4>
 
 - **[2025.03.10 ~ 진행중 ] 3학년 졸업작품 - 코드 시각화 플랫폼**   
 개발 프로젝트(5인, 팀장) : <a href="https://github.com/DMU-DebugVisual">Zivorp</a>
@@ -145,7 +141,6 @@
 대회 내용 : 환경센서 미설치 발전소의 일사량을 정밀하게 추정하는 모델 개발   
 개발 모델(4인, 팀장) : 업로드예정
 
-</details>
 </details>
 
 ---
@@ -284,5 +279,5 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:553830,100:f05650&height=130&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:0fe0ca,50:fbbf24,100:ff9f00&height=130&section=footer&fontSize=90)
 </div>
