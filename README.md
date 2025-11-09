@@ -143,7 +143,8 @@
 
 </details>
 
----
+<h2></h2>
+
 ## 🚀 대외활동 (External Activities)
 <details>
 <summary><b>🏆 수상</b></summary>
@@ -230,7 +231,8 @@
 - [ 2022.04.01 / 3학년 1학기 ] 과학경시대회(화학부문) (동상 3위)
 </details>
 
----
+<h2></h2>
+
 ## 📊 GitHub & BOJ Stats
 
 <br>
@@ -250,7 +252,7 @@
   </table>
 </div>
 
----
+<h2></h2>
 
 ## 🛠 Tech Stack
 <div align="center">
@@ -274,7 +276,8 @@
     </tr>
   </table>
 
----
+<h2></h2>
+
 <h3>📩 Contact : rlarladlstjd@gmail.com</h3>
 
 
