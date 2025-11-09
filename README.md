@@ -273,10 +273,21 @@
       </td>
     </tr>
   </table>
+
+---
+<p>
+  <img 
+    src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Contact"
+    style="vertical-align: middle;"
+  />
+  <span style="vertical-align: middle; margin-left: 8px; font-size: 20px;">
+    <b>rlarladlstjd@gmail.com</b>
+  </span>
+</p>
+
+
 </div>
-
-
-
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:0fe0ca,50:fbbf24,100:ff9f00&height=130&section=footer&fontSize=90)
