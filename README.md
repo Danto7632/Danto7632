@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f05650,100:553830&height=270&section=header&text=김인성's%20Github%20&fontSize=80&fontAlignY=40&desc=천재%20성장형%20올라운더%20개발자%20૮𖦹_×ა&descSize=25)
 
-# 🦦 경험 
+# 🦦 경험 (Experience)
 
 <details>
-<summary><h3>초등학생</h3></summary>
+<summary><h3>👶 초등학생</h3></summary>
 <div markdown="1">
 
 - 태권도 1년 (1단) *체육관
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary><h3>중학생</h3></summary>
+<summary><h3>🧑‍🎓 중학생</h3></summary>
 <div markdown="1">
 
 - 2017 **사도장학회 장학생**으로 중학교 입학
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary><h3>고등학생</h3></summary>
+<summary><h3>🏫 고등학생</h3></summary>
 <div markdown="1">
 
 - 복싱 3개월 *체육관
@@ -46,7 +46,7 @@
 - [ 2학년 ~ 3학년 ] 자율동아리  Programmers **개설 및 부장** 활동 - 앱개발 학생동아리 선정 ***교육청소속**
 - 희망진로 : 프로그래머(1,2,3학년)
 </div>
-<summary><h4>1학년</h4></summary>
+<summary><h4>📌 1학년</h4></summary>
 <div markdown="1">
 
 - <a href="https://school.programmers.co.kr/learn/courses/2/2-%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8">프로그래머스 파이썬 입문 완강</a>
@@ -58,7 +58,7 @@
 <br>개발프로젝트(13인, 팀장) : 흔들 골 회수 및 운송 & 링 회수 및 발사 로봇(작성예정)
 <br>여담 : 팀 구성일이 13일 금요일 이었고, 인원도 13명이라 팀 명을 '13인의 금요일'로 지음
 </div>
-<summary><h4>2학년</h4></summary>
+<summary><h4>📌 2학년</h4></summary>
 <div markdown="1">
 
 - 앱인벤터기반 '공 튀기기 게임' 개선
@@ -80,7 +80,7 @@
 - 해킹방어대회 CTF 미수상 (4문제부터 수상권, but 3문제 풀었음)
 
 </div>
-<summary><h4>3학년</h4></summary>
+<summary><h4>📌 3학년</h4></summary>
 <div markdown="1">
 
 - 창업 아이디어 교내 1위 -> 학교대표 모의 크라우드 펀딩 대회 - 최종6위
@@ -93,7 +93,7 @@
 </details>
 
 <details>
-<summary><h3>대학생</h3></summary>
+<summary><h3>🎓 대학생</h3></summary>
 <div markdown="1">
 
 - **개교 60주년 기념 리더장학생 선정(석차2위)**
@@ -109,7 +109,7 @@
 - [ 3학년 1학기 ] 자료구조(+코테) 스터디 **운영**
 - [ 3학년 1학기 ~ 3학년 2학기 ] D.StartupZone **대표**(교내 창업지원팀)
 </div>
-<summary><h4>1학년</h4></summary>
+<summary><h4>🧩 1학년</h4></summary>
 <div markdown="1">
 
 - [ 2023.04.17 ~ 06.12 ] 1학년 1학기 웹과제 - 가구쇼핑몰(ikea 기반)
@@ -122,7 +122,7 @@
 - [ 2024.01.09 ~ 02.29 ] 1학년 겨울방학 팀프로젝트 - 게임(뱀서장르)
 <br>개발 프로젝트(2인) : <a href="https://github.com/Danto7632/GDP">GDP</a>
 </div>
-<summary><h4>2학년</h4></summary>
+<summary><h4>🧩 2학년</h4></summary>
 <div markdown="1">
 
 - 2학년 1학기 웹과제 - 쇼핑몰(React, api 등)
@@ -153,7 +153,7 @@
 - 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)
 <br>개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
 </div>
-<summary><h4>3학년</h4></summary>
+<summary><h4>🧩 3학년</h4></summary>
 <div markdown="1">
 
 - **[2025.03.07 ~ 진행중 ] 한이음 드림업 프로젝트 - Project Management System**
@@ -226,6 +226,8 @@
 </div>
 </details>
 
+---
+## 📊 GitHub & BOJ Stats
 
 <br>
 
@@ -242,6 +244,12 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🛠 Tech Stack
+<div align="center">
   <table>
     <tr>
       <td>
@@ -261,7 +269,6 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 
