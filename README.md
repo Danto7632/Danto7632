@@ -143,7 +143,7 @@
 - [ 2025.12.10 ~ 2025.12.11 ] 스마트 제조 AI Agent 해커톤   
 대회 내용 : 제조업 도메인 특화 LLM·RAG 기반 AI Agent 개발   
 개발 프로젝트(2인) : [Contexion](https://github.com/Danto7632/Contexion)   
-- [ 2025.12.18 ~ 2025.12.19 ] JNU RISEFLOW GLOBAL FORUM: AI 아이디어톤
+- [ 2025.12.18 ~ 2025.12.19 ] JNU RISEFLOW GLOBAL FORUM: AI 아이디어톤   
 대회 내용 : AI를 활용하여 제주의 지역사회문제를 해결하는 아이디어 도출   
 개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)
 
