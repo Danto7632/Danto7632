@@ -114,11 +114,11 @@
 - **[ 2024.11.11 ~ 11.15 ] <a href="https://dataen.ai/challenge/history/2024">2024 POSTECT X OIBC CHALLENGE</a> - 200여 팀 중 최종 18위(17위까지 입상)**   
 대회 내용 : 기상예측데이터를 활용하여 전력시장 예측 모델을 만들고 5일간 결과제출   
 개발 모델(5인, 팀장) : <a href="https://github.com/Danto7632/2024_6th_OIBC_EL">2024_6th_OIBC_EL</a>
-- 2학년 2학기 백엔드과제 - 커스텀 로또사이트(jsp, api 등)
-<br>개발 프로젝트(2인) : <a href="https://github.com/ghkdtjfxkd/jsp-lotto-captain">jsp_lotto_captain</a>
-- **[ 2025.01.06 ~ 01.10 ] Digi-STAR Program in JEJU 프로그램(4박5일)**
-<br>개발 프로젝트(8인, 팀장) : 생성형 AI 기반 제주관광코스(업로드안할예정)
-<br>여담 : 각자의 역할을 착실히 수행하는 팀플을 경험했고, 잊지 못할 추억임
+- 2학년 2학기 백엔드과제 - 커스텀 로또사이트(jsp, api 등)   
+개발 프로젝트(2인) : <a href="https://github.com/ghkdtjfxkd/jsp-lotto-captain">jsp_lotto_captain</a>
+- **[ 2025.01.06 ~ 01.10 ] Digi-STAR Program in JEJU 프로그램(4박5일)**   
+기획 프로젝트(8인, 팀장) : 생성형 AI 기반 제주관광코스(업로드안할예정)   
+여담 : 각자의 역할을 착실히 수행하는 팀플을 경험했고, 잊지 못할 추억임
 - 2학년 겨울방학 개인프로젝트(하루) - 동아리 EL 홍보페이지ver.2(React)   
 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/ELPromotionPage2">ELPromotionPage2</a>
 
@@ -135,11 +135,17 @@
 개발 프로젝트(2인, 팀장) : <a href="https://github.com/Danto7632/HealthSnap">HealthSnap</a>
 - 3학년 2학기 로컬잇슈!창업캠프 MVP모델(하루) - KREAM 스타일 IT자산 전문거래 플랫폼   
 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/LOOPI">LOOPI</a>
-- [2025.09.29 ~ 진행중 ] 3학년 AI활용개발실무 - 메뉴얼기반 고객응대 시뮬레이션 플랫폼   
-개발 프로젝트(1인) : 업로드예정
+- [2025.09.29 ~ 12.15 ] 3학년 AI활용개발실무 - 메뉴얼기반 고객응대 시뮬레이션 플랫폼   
+개발 프로젝트(1인) : [PWS(ver.1 + introduce)](https://github.com/Danto7632/PWS), [PWS_2(ver.2)](https://github.com/Danto7632/PWS_2), [PWS_3(ver.3 the last)](https://github.com/Danto7632/PWS_3)
 - **[ 2025.11.03 ~ 11.14 ] 2025 POSTECT X OIBC CHALLENGE**   
 대회 내용 : 환경센서 미설치 발전소의 일사량을 정밀하게 추정하는 모델 개발   
-개발 모델(4인, 팀장) : 업로드예정
+개발 모델(4인, 팀장) : 업로드예정   
+- [ 2025.12.10 ~ 2025.12.11 ] 스마트 제조 AI Agent 해커톤   
+대회 내용 : 제조업 도메인 특화 LLM·RAG 기반 AI Agent 개발   
+개발 프로젝트(2인) : [Contexion](https://github.com/Danto7632/Contexion)   
+- [ 2025.12.18 ~ 2025.12.19 ] JNU RISEFLOW GLOBAL FORUM: AI 아이디어톤
+대회 내용 : AI를 활용하여 제주의 지역사회문제를 해결하는 아이디어 도출   
+개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)
 
 </details>
 
@@ -169,7 +175,7 @@
 - **[ 2025.11.21 ] 2025 Digitech 캡스톤디자인 경진대회 (Abeek상) \*한국공학교육인증원상**
 - [ 2025.12.11 ] 2025 스마트 제조 AI Agent 해커톤 (2등) *???(상장발부이전)
 - **[ 2025.12.12 ] 2025 스마트 SW 개발 (졸업작품)경진대회 (최우수상 1등) \*동양미래대학교 총장상**
-- [ 2025.12.12 ] 2025 생성형AI활용개발실무 경진대회 (우수상) *동양미래대학교 *동양미래대학교 총장상
+- [ 2025.12.12 ] 2025 생성형AI활용개발실무 경진대회 (우수상) *동양미래대학교 총장상
 </details>
 
 <details>
@@ -200,7 +206,7 @@
 - [ 2025.08.22 ~ 08.23 ] 호남is해커톤(1박2일) *수료
 - [ 2025.08.26 ~ 08.27 ] Next Level 취업캠프 *수료
 - [ 2025.09.19 ~ 09.20 ] 로컬잇슈! 창업캠프 *수료
-- [ 2025.11.28 ~ 12.13 ] AI컨퍼런스 모두콘 2025 서포터즈 선발
+- [ 2025.11.28 ~ 12.13 ] AI컨퍼런스 모두콘 2025 서포터즈 *인증서
 </details>
 
 <details>
@@ -213,14 +219,14 @@
 - [ 2025.01.09 ~ 01.10 ] 제 1회 지산학 한마당 Gvalley 작품전시(LeafTale)
 
 **Navis**
-- **[ 2025.07.04 ] 2025 한국컴퓨터종합학술대회 (KCC2025) 전시 및 발표**(Navis)   
-집필 논문(6인) : [생성형 AI를 활용한 자동 스프린트 계획 및 프로젝트 관리 자동화 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318706)
-- **[ 2025.11.19 ] 2025 한이음 드림업 엑스포 서울 KINTEX 전시**(Navis)
+- **[ 2025.07.04 ] 2025 한국컴퓨터종합학술대회 (KCC2025) 포스터세션 발표**(Navis)   
+학회지 작성(6인) : [생성형 AI를 활용한 자동 스프린트 계획 및 프로젝트 관리 자동화 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318706)
+- **[ 2025.11.19 ] 2025 한이음 드림업 엑스포 서울 KINTEX 포스터 전시**(Navis)
 
 **Zivorp**
-- [2025.11.21 ] 2025 Digitech 캡스톤디자인 경진대회 작품전시(Zivorp)
-- **[2025.11.28 ] 2025 대한전자공학회 추계학술대회 전시 및 발표**(Zivorp)   
-집필 논문(6인,주저자) : 언어 비의존 코드 실행 시각화를 위한 최소 이벤트 스키마와 웹 기반 재생 파이프라인
+- [2025.11.21 ] 2025 Digitech 캡스톤디자인 경진대회 인하공전 작품전시(Zivorp)
+- **[2025.11.28 ] 2025 대한전자공학회 추계학술대회 포스터세션 발표**(Zivorp)   
+학회지 작성(6인,주저자) : 언어 비의존 코드 실행 시각화를 위한 최소 이벤트 스키마와 웹 기반 재생 파이프라인
 </details>
 
 <details>
