@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0fe0ca,50:fbbf24,100:ff9f00&height=220&section=header&text=Welcome%20!%20૮𖦹_×ა&fontSize=64&fontAlignY=30&fontColor=ffffff&desc=프로젝트를%20끝까지%20책임지는,%20천재%20성장형%20올라운더%20개발자입니다.&descSize=20&descAlignY=57&animation=fadeIn)
 ---
 
-## 🦦 경험 (Experience) 
+## 🦦 경험 (Experience)
 
 <details>
 <summary><b>👶 초등학생</b></summary>
@@ -176,6 +176,7 @@
 - [ 2025.12.11 ] 2025 스마트 제조 AI Agent 해커톤 (2등) *Dacon CEO상
 - **[ 2025.12.12 ] 2025 스마트 SW 개발 (졸업작품)경진대회 (최우수상 1등) \*동양미래대학교 총장상**
 - [ 2025.12.12 ] 2025 생성형AI활용개발실무 경진대회 (우수상) *동양미래대학교 총장상
+- [ 2025.12.29 ] 2025 전국 창의코딩 경진대회 (동상) *공학기술교육혁신센터장상
 </details>
 
 <details>
