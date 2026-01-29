@@ -86,6 +86,7 @@
 - [ 2학년 2학기 ~ 3학년 2학기 ] 전공튜터링 **튜터**로 활동
 - [ 3학년 1학기 ] 자료구조(+코테) 스터디 **운영**
 - [ 3학년 1학기 ~ 3학년 2학기 ] D.StartupZone **대표**(교내 창업지원팀)
+- [ 3학년 겨울방학 ] 교내 기숙사 외박/귀사 프로그램 & 도서관이용증 QR출석 프로그램 개발 및 배포
 - [ 4학년 1학기 ~ ] **<a href="https://hpcbigdata.seoultech.ac.kr/">BigData and HPC Lab</a> 학부연구생 활동**
 
 <h4>🧩 1학년</h4>
@@ -141,14 +142,13 @@
 - **[ 2025.11.03 ~ 11.14 ] 2025 POSTECT X OIBC CHALLENGE**   
 대회 내용 : 환경센서 미설치 발전소의 일사량을 정밀하게 추정하는 모델 개발   
 개발 모델(4인, 팀장) : 업로드예정   
-- [ 2025.12.10 ~ 2025.12.11 ] 스마트 제조 AI Agent 해커톤   
+- [ 2025.12.10 ~ 12.11 ] 스마트 제조 AI Agent 해커톤   
 대회 내용 : 제조업 도메인 특화 LLM·RAG 기반 AI Agent 개발   
 개발 프로젝트(2인) : [Contexion](https://github.com/Danto7632/Contexion)   
-- [ 2025.12.18 ~ 2025.12.19 ] JNU RISEFLOW GLOBAL FORUM: AI 아이디어톤   
+- [ 2025.12.18 ~ 12.19 ] JNU RISEFLOW GLOBAL FORUM: AI 아이디어톤   
 대회 내용 : AI를 활용하여 제주의 지역사회문제를 해결하는 아이디어 도출   
-개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)
-
-<h4>🧩 4학년</h4>
+개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)   
+- [2026.02.06 ~ 02.07 ] 2026 GDGoC 연합해커톤: ONE WAVE(예정)   
 
 </details>
 
