@@ -86,6 +86,7 @@
 - [ 2학년 2학기 ~ 3학년 2학기 ] 전공튜터링 **튜터**로 활동
 - [ 3학년 1학기 ] 자료구조(+코테) 스터디 **운영**
 - [ 3학년 1학기 ~ 3학년 2학기 ] D.StartupZone **대표**(교내 창업지원팀)
+- [ 4학년 1학기 ~ ] **<a href="https://hpcbigdata.seoultech.ac.kr/">BigData and HPC Lab</a> 학부연구생 활동**
 
 <h4>🧩 1학년</h4>
 
@@ -146,6 +147,8 @@
 - [ 2025.12.18 ~ 2025.12.19 ] JNU RISEFLOW GLOBAL FORUM: AI 아이디어톤   
 대회 내용 : AI를 활용하여 제주의 지역사회문제를 해결하는 아이디어 도출   
 개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)
+
+<h4>🧩 4학년</h4>
 
 </details>
 
