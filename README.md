@@ -158,6 +158,7 @@
 
 </details>
 
+<h2></h2>
 
 ## 🚀 대외활동 (External Activities)
 <details>
