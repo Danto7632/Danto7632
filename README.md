@@ -149,7 +149,7 @@
 개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)   
 - [2026.02.06 ~ 02.07 ] 2026 GDGoC 연합해커톤: ONE WAVE(예정)   
 
-
+</details>
 
 <details>
 <summary><b>🎓 대학생(학사)</b></summary>
@@ -158,7 +158,6 @@
 
 </details>
 
-<h2></h2>
 
 ## 🚀 대외활동 (External Activities)
 <details>
