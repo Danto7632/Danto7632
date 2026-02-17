@@ -87,7 +87,6 @@
 - [ 3학년 1학기 ] 자료구조(+코테) 스터디 **운영**
 - [ 3학년 1학기 ~ 3학년 2학기 ] D.StartupZone **대표**(교내 창업지원팀)
 - [ 3학년 겨울방학 ] 교내 기숙사 외박/귀사 프로그램 & 도서관이용증 QR출석 프로그램 개발 및 배포
-- [ 4학년 1학기 ~ ] **<a href="https://hpcbigdata.seoultech.ac.kr/">BigData and HPC Lab</a> 학부연구생 활동**
 
 <h4>🧩 1학년</h4>
 
@@ -150,9 +149,15 @@
 개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)   
 - [2026.02.06 ~ 02.07 ] 2026 GDGoC 연합해커톤: ONE WAVE(예정)   
 
+
+
+<details>
+<summary><b>🎓 대학생(학사)</b></summary>
+
+- [ 4학년 1학기 ~ ] **<a href="https://hpcbigdata.seoultech.ac.kr/">BigData and HPC Lab</a> 학부연구생 활동**
+
 </details>
 
-<h2></h2>
 
 ## 🚀 대외활동 (External Activities)
 <details>
