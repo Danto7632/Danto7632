@@ -154,7 +154,7 @@
 <details>
 <summary><b>🎓 대학생(학사)</b></summary>
 
-- [ 4학년 1학기 ~ ] **<a href="https://hpcbigdata.seoultech.ac.kr/">BigData and HPC Lab</a> 학부연구생 활동**
+- empty
 
 </details>
 
