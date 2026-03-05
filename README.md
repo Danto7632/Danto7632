@@ -148,13 +148,17 @@
 대회 내용 : AI를 활용하여 제주의 지역사회문제를 해결하는 아이디어 도출   
 개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)   
 - [2026.02.06 ~ 02.07 ] 2026 GDGoC 연합해커톤: ONE WAVE(예정)   
+대회 내용 : 취업난 문제를 해결하기 위한 솔루션 도출 및 개발.  
+개발 프로젝트(4인) : [reframe](https://github.com/Danto7632/reframe)
 
 </details>
 
 <details>
 <summary><b>🎓 대학생(학사)</b></summary>
 
-- empty
+- 한국장학재단 창업기숙사 예비선발
+- 소프트웨어마에스트로 17기 선발심사중(1차 코테합격)
+- 출석&기숙사 프로그램 유지보수 중
 
 </details>
 
