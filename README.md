@@ -285,7 +285,7 @@
   <table>
     <tr>
       <td>
-          <img src="github-readme-stats-seven-lemon-15.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=8" alt="Top Langs">
+          <img src="https://github-readme-stats-seven-lemon-15.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=8" alt="Top Langs">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/C-561550?style=for-the-badge&logo=c&logoColor=white">
