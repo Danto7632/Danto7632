@@ -231,7 +231,7 @@
 - **[ 2024.10.22 ~ 10.25 ] <a href="https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/">KES2024(한국전자전)</a> 서울 COEX 작품전시**(LeafTale)   
 여담 : 전시이후 <a href="https://cornestech.co.jp/">일본의 LeapMotion 유통사</a>와의 컨택이 있었음
 - **[ 2024.11.06 ~ 11.08 ] <a href="https://uicexpo.org/">산학연협력EXPO</a> 부산 BEXCO 작품전시**(LeafTale)
-- [ 2025.01.09 ~ 01.10 ] 제 1회 지산학 한마당 Gvalley 작품전시(LeafTale)
+- [ 2025.01.09 ~ 01.10 ] [제 1회 지산학 한마당 Gvalley](https://youtu.be/cfAsWLoMAV4?si=tEQ6infCZ8L_uiJ6) 작품전시(LeafTale)
 
 **Navis**
 - **[ 2025.07.04 ] 2025 한국컴퓨터종합학술대회 (KCC2025) 포스터세션 발표**(Navis)   
