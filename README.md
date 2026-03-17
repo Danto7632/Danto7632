@@ -131,12 +131,6 @@
 
 - 3학년 1학기 스터디관리(하루) - 스터디원 solvedac 랭킹제공(티어, 스트릭) 플랫폼   
 개발 프로젝트(1인) : <a href="https://github.com/Danto7632/solvedac_profile">solvedac_profile</a>
-- 3학년 여름방학 창업주간 MVP모델(하루) - 수면장애 개선 앱서비스   
-개발 프로젝트(1인) : <a href="https://github.com/Danto7632/cansleep">cansleep</a>
-- 3학년 여름방학 호남is해커톤 MVP모델 개선 결과물(하루) - 건강검진 기반 AI 건강관리 시스템   
-개발 프로젝트(2인, 팀장) : <a href="https://github.com/Danto7632/HealthSnap">HealthSnap</a>
-- 3학년 2학기 로컬잇슈!창업캠프 MVP모델(하루) - KREAM 스타일 IT자산 전문거래 플랫폼   
-개발 프로젝트(1인) : <a href="https://github.com/Danto7632/LOOPI">LOOPI</a>
 - [2025.09.29 ~ 12.15 ] 3학년 AI활용개발실무 - 메뉴얼기반 고객응대 시뮬레이션 플랫폼   
 개발 프로젝트(1인) : [PWS(ver.1 + introduce)](https://github.com/Danto7632/PWS), [PWS_V2(ver.2)](https://github.com/Danto7632/PWS_V2), [PWS_V3(ver.3 the last)](https://github.com/Danto7632/PWS_V3)
 - **[ 2025.11.03 ~ 11.14 ] 2025 POSTECT X OIBC CHALLENGE**   
@@ -149,8 +143,7 @@
 대회 내용 : AI를 활용하여 제주의 지역사회문제를 해결하는 아이디어 도출   
 개발 프로젝트(4인) : [Jekimi](https://github.com/Danto7632/Jekimi)   
 - [2026.02.06 ~ 02.07 ] 2026 GDGoC 연합해커톤: ONE WAVE(예정)   
-대회 내용 : 취업난 문제를 해결하기 위한 솔루션 도출 및 개발.  
-개발 프로젝트(4인) : [reframe](https://github.com/Danto7632/reframe)
+
 
 </details>
 
@@ -217,13 +210,18 @@
 - [ 2025.05.09 ] 2025년 한이음 드림업 오프라인 AWS 1차 교육 *수료
 - **[ 2025.05.15 ~ 10.31 ] 2025 학생창업유망팀 300+ 성장트랙 B 최종선발 \*인증서**(Zivorp)
 - [ 2025.05.22 ~ 05.24 ] 스마트팩토리 융합 파이썬 교육 캠프(2박3일) *이중수료
-- [ 2025.07.14 ~ 07.18 ] [A4]AX START UP(4박5일) *수료
+- [ 2025.07.14 ~ 07.18 ] [A4]AX START UP(4박5일) - 수면장애 개선 앱서비스 *수료   
+개발 프로젝트(1인) : <a href="https://github.com/Danto7632/cansleep">cansleep</a>
 - [ 2025.08.08 ~ 08.18 ] NYPC \<CODE BATTLE> 온라인 라운드 상위 42% *인증서
-- [ 2025.08.22 ~ 08.23 ] 호남is해커톤(1박2일) *수료
+- [ 2025.08.22 ~ 08.23 ] 호남is해커톤(1박2일) - 건강검진 기반 AI 건강관리 시스템 *수료   
+개발 프로젝트(2인, 팀장) : <a href="https://github.com/Danto7632/HealthSnap">HealthSnap</a>
 - [ 2025.08.26 ~ 08.27 ] Next Level 취업캠프 *수료
-- [ 2025.09.19 ~ 09.20 ] 로컬잇슈! 창업캠프 *수료
+- [ 2025.09.19 ~ 09.20 ] 로컬잇슈! 창업캠프 - KREAM 스타일 IT자산 전문거래 플랫폼 *수료   
+개발 프로젝트(1인) : <a href="https://github.com/Danto7632/LOOPI">LOOPI</a>
 - [ 2025.12.06 ~ 12.13 ] AI컨퍼런스 모두콘 2025 서포터즈 *인증서
-- [ 2026.02.06 ~ 02.07 ] GDGOC Hackathon:ONEWAVE 해커톤 *수료
+- [ 2026.02.06 ~ 02.07 ] GDGOC Hackathon:ONEWAVE 해커톤 *수료   
+대회 내용 : 취업난 문제를 해결하기 위한 솔루션 도출 및 개발   
+개발 프로젝트(4인) : [reframe](https://github.com/Danto7632/reframe)
 </details>
 
 <details>
