@@ -160,6 +160,9 @@
 - [ 2026.03.27 ~ 04.17 ] 고급인공지능 중간프로젝트 - 포커 트레이닝 게임   
 개발 프로젝트(4인) : [AIPOT](https://github.com/Dvely/Dvely_AIPOT)
 
+- [ 2026.04.13 ] Open Source Contributions - [mazassumnida](https://github.com/mazassumnida/mazassumnida/pull/45)
+
+
 - **[ 2026.05 예정 ] 소프트웨어마에스트로 프로젝트**
 
 
