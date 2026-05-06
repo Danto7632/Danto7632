@@ -279,7 +279,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-seven-lemon-15.vercel.app/api?username=danto7632" alt="GitHub stats">
+        <img src="https://github-readme-stats-seven-lemon-15.vercel.app/api?username=danto7632&show_icons=true&theme=dark" alt="GitHub stats">
       </td>
       <td>
         <a href="https://solved.ac/danto7632">
