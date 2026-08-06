@@ -243,6 +243,7 @@
 대회 내용 : 취업난 문제를 해결하기 위한 솔루션 도출 및 개발   
 개발 프로젝트(4인) : [reframe](https://github.com/Danto7632/reframe)
 - **[ 2026.05.15 ~ 2026.05.17 ] ASM 제17기 연수생 Design Thinking Workshop(SAP) \*수료**
+- **[ 2026.08.02 ] ACPC 2026 Finals(본선) \*인증서**
 </details>
 
 <details>
