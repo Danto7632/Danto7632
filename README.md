@@ -15,13 +15,11 @@ AI·SW 마에스트로 17기 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 �
 - 🥈 **OpenAI × 소마 Codex Impact Workshop 2위** · Dacon AI Agent 해커톤 2등
 - 🧮 ACPC 2026 본선 · PCCE C++ Lv.4 · 정보처리산업기사
 
-### 🔄 Now <sub>2026.11 기준</sub>
+### 🔭 Now
 
-[![](https://img.shields.io/badge/%ED%8A%B9%ED%97%88-%EB%93%B1%EB%A1%9D_%EB%8C%80%EA%B8%B0-F59E0B?style=flat-square)](https://doi.org/10.8080/1020250024102)
-[![](https://img.shields.io/badge/ACK_2026-11%EC%9B%94_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B0%9C%ED%91%9C-3B82F6?style=flat-square)](https://github.com/Dvely)
-[![](https://img.shields.io/badge/%ED%95%9C%EC%9D%B4%EC%9D%8C_%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%9E%A5%EB%A0%A4%EC%83%81_%ED%8F%89%EA%B0%80_%EC%A4%91-3B82F6?style=flat-square)](https://github.com/Dvely)
-[![](https://img.shields.io/badge/%EC%A7%9C%EC%9E%94-%EC%9A%B4%EC%98%81_%EC%A4%91-22C55E?style=flat-square)](https://github.com/zzazan-asm)
-[![](https://img.shields.io/badge/Checky_Poker-%EA%B0%9C%EB%B0%9C_%EC%A4%91-8B5CF6?style=flat-square)](https://github.com/Danto7632/checky-poker)
+- 📄 **ACK 2026** 포스터 발표 준비 — 11월 세종대학교 · Qeploy 주저자 논문
+- 🏆 **2026 한이음 드림업 공모전** 장려상 평가 중 — [Qeploy](https://github.com/Dvely)
+- 📱 [**짜잔**](https://github.com/zzazan-asm) iOS · Android 운영 · ♠️ [**Checky Poker**](https://github.com/Danto7632/checky-poker) 오픈소스 개발 중
 
 ### 📌 Projects
 
@@ -37,11 +35,6 @@ AI·SW 마에스트로 17기 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 �
 
 ### 🛠 Stack
 
-| 빠른 개발 | 견고한 개발 | 모바일 | 알고리즘 | AI · 데이터 | 인프라 |
+| Language | Frontend | Backend | Mobile | Database | DevOps |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=ts,react,nestjs,supabase" height="32" alt="TypeScript, React, NestJS, Supabase"> | <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="32" alt="Java, Spring Boot, MySQL"> | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="32" alt="Swift, Kotlin"> | <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++"> | <img src="https://skillicons.dev/icons?i=py" height="32" alt="Python"> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" height="32" alt="AWS, Docker, GitHub Actions"> |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lemon-15.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=10&include_contributed=true&hide=shell,powershell,html,css,jupyter%20notebook&card_width=420&hide_border=true&theme=github_dark">
-  <img alt="Most Used Languages" src="https://github-readme-stats-seven-lemon-15.vercel.app/api/top-langs/?username=danto7632&layout=compact&langs_count=10&include_contributed=true&hide=shell,powershell,html,css,jupyter%20notebook&card_width=420&hide_border=true">
-</picture>
+| <img src="https://skillicons.dev/icons?i=ts,java,py,cpp" height="32" alt="TypeScript, Java, Python, C++"> | <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"> | <img src="https://skillicons.dev/icons?i=spring,nestjs" height="32" alt="Spring Boot, NestJS"> | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="32" alt="Swift, Kotlin"> | <img src="https://skillicons.dev/icons?i=mysql,supabase" height="32" alt="MySQL, Supabase"> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" height="32" alt="AWS, Docker, GitHub Actions"> |
