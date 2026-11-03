@@ -1,12 +1,6 @@
-<div align="center">
+## 📜 김인성 · 상세 이력
 
-# 📜 Danto7632 · 상세 이력
-
-[← 프로필로 돌아가기](https://github.com/Danto7632)
-
-**[🏆 수상](#awards) · [📑 특허·논문·전시](#ip) · [💻 프로젝트](#projects) · [✅ 자격·수료](#certs) · [🙋 활동](#activities) · [🦦 성장기록](#story)**
-
-</div>
+[← 프로필로 돌아가기](https://github.com/Danto7632) · **[🏆 수상](#awards) · [📑 특허·논문·전시](#ip) · [💻 프로젝트](#projects) · [✅ 자격·수료](#certs) · [🙋 활동](#activities) · [🦦 성장기록](#story)**
 
 > 굵은 글씨 = 주요 항목 · 최신순 정렬
 
@@ -267,8 +261,4 @@
 
 ---
 
-<div align="center">
-
 📩 **Contact** : rlarladlstjd@gmail.com · [← 프로필로 돌아가기](https://github.com/Danto7632)
-
-</div>
