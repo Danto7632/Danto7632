@@ -109,9 +109,9 @@
 | 기간 | 프로젝트 | 내용 | 구성 |
 |:--|:--|:--|:--|
 | 2026.02.06 ~ 02.07 | [reframe](https://github.com/Danto7632/reframe) | GDGoC 연합해커톤 ONE WAVE — 취업난 해결 솔루션 | 4인 |
-| 2026.01 | [xroom](https://github.com/Danto7632/xroom) | Digi-STAR Program in Busan — '응답하라 청춘: 감천 X-룸' 감천문화마을 가족여행 프로젝트 · 우수상 | |
-| 2025.12.18 ~ 12.19 | [Jekimi](https://github.com/Danto7632/Jekimi) | JNU RISEFLOW GLOBAL FORUM AI 아이디어톤 — AI로 제주 지역사회문제 해결 | 4인 |
-| 2025.12.10 ~ 12.11 | **[Contexion](https://github.com/Danto7632/Contexion)** | 스마트 제조 AI Agent 해커톤 — 제조 도메인 LLM·RAG AI Agent · 🥈 2등 | 2인 |
+| 2026.01 | [xroom](https://github.com/Danto7632/xroom) | Digi-STAR Program in Busan — '응답하라 청춘: 감천 X-룸' 감천문화마을 가족여행 프로젝트 · 우수상 | 7인 |
+| 2025.12.18 ~ 12.19 | [Jekimi](https://github.com/Danto7632/Jekimi) | JNU RISEFLOW GLOBAL FORUM AI 아이디어톤 — AI로 제주 지역사회문제 해결 | 4인 · 팀장 |
+| 2025.12.10 ~ 12.11 | **[Contexion](https://github.com/Danto7632/Contexion)** | 스마트 제조 AI Agent 해커톤 — 제조 도메인 LLM·RAG AI Agent · 🥈 2등 | 2인 · 팀장 |
 | 2025.11.03 ~ 11.14 | **2025 POSTECH X OIBC CHALLENGE** (업로드 예정) | 환경센서 미설치 발전소의 일사량 정밀 추정 모델 | 4인 · 팀장 |
 | 2025.09.29 ~ 12.15 | [PWS](https://github.com/Danto7632/PWS) · [V2](https://github.com/Danto7632/PWS_V2) · [V3](https://github.com/Danto7632/PWS_V3) | AI활용개발실무 — 매뉴얼 기반 고객응대 시뮬레이션 플랫폼 · 우수상 | 1인 |
 | 2025.09.19 ~ 09.20 | [LOOPI](https://github.com/Danto7632/LOOPI) | 로컬잇슈! 창업캠프 — KREAM 스타일 IT자산 전문거래 플랫폼 · 최우수상 | 1인 |
