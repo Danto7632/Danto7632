@@ -1,7 +1,7 @@
 ## 🦦 김인성 · Inseong Kim
 
 **프로젝트를 끝까지 책임지는, 천재 성장형 올라운더 개발자**  
-**AI·SW 마에스트로 17기** 연수생 · 전공심화 4학년 · GPA 4.5/4.5 · 학과 학생회장 · 외주 41건
+**AI·SW 마에스트로 17기** 연수생 · 4학년 재학 중 · GPA 4.5/4.5 · 학과 학생회장 · 외주 41건
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/inseong-kim04)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rlarladlstjd@gmail.com)
@@ -40,3 +40,10 @@
 | Language | Frontend | Backend | Mobile | Database | DevOps |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=ts,java,py,cpp" height="32" alt="TypeScript, Java, Python, C++"> | <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"> | <img src="https://skillicons.dev/icons?i=spring,nestjs" height="32" alt="Spring Boot, NestJS"> | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="32" alt="Swift, Kotlin"> | <img src="https://skillicons.dev/icons?i=mysql,supabase" height="32" alt="MySQL, Supabase"> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" height="32" alt="AWS, Docker, GitHub Actions"> |
+
+### 📊 GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lemon-15.vercel.app/api?username=danto7632&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff">
+  <img alt="GitHub Stats" src="https://github-readme-stats-seven-lemon-15.vercel.app/api?username=danto7632&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da">
+</picture>
