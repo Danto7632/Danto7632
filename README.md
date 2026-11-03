@@ -20,6 +20,7 @@
 
 - 📄 **ACK 2026** 포스터 발표 준비 — 11월 세종대학교 · Qeploy 주저자 논문
 - 🏆 **2026 한이음 드림업 공모전** 장려상 평가 중 — [Qeploy](https://github.com/Dvely)
+- 📝 **정보처리기사** 3회 실기 · **TOPCIT** (10.10) 응시 — 결과 대기
 - 📱 [**짜잔**](https://github.com/zzazan-asm) iOS · Android 운영 · ♠️ [**Checky Poker**](https://github.com/Danto7632/checky-poker) 오픈소스 개발 중
 
 ### 📌 Projects
