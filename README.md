@@ -1,7 +1,7 @@
 ## 🦦 김인성 · Inseong Kim
 
 **프로젝트를 끝까지 책임지는, 천재 성장형 올라운더 개발자**  
-**AI·SW 마에스트로 17기** 연수생 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 학생회장 · 외주 41건
+**AI·SW 마에스트로 17기** 연수생 · 전공심화 4학년 · GPA 4.5/4.5 · 학과 학생회장 · 외주 41건
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/inseong-kim04)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rlarladlstjd@gmail.com)
