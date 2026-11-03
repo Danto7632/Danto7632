@@ -77,6 +77,7 @@
 
 | 일자 | 학술대회 | 논문 | 저자 | 프로젝트 |
 |:--|:--|:--|:--|:--|
+| 2026.11 | **2026 한국정보처리학회 추계학술발표대회 (ACK 2026)** | 공유 출구 프록시를 이용한 AI 생성 웹 애플리케이션 프리뷰의 세션별 네트워크 격리 · 게재 확정, 세종대 포스터 발표 | **주저자** | Qeploy |
 | 2025.11.28 | **2025 대한전자공학회 추계학술대회** | [언어 비의존 코드 실행 시각화를 위한 최소 이벤트 스키마와 웹 기반 재생 파이프라인](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551263) | **주저자** (6인) | Zivorp |
 | 2025.07.04 | **2025 한국컴퓨터종합학술대회 (KCC2025)** | [생성형 AI를 활용한 자동 스프린트 계획 및 프로젝트 관리 자동화 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318706) | 6인 | Navis |
 
@@ -107,7 +108,7 @@
 | 2026.05.08 ~ 06.19 | InRoute (비공개) | 고급인공지능 기말 — 실내 내비게이션 서비스 | 4인 |
 | 2026.04.13 | [mazassumnida #45](https://github.com/mazassumnida/mazassumnida/pull/45) | 오픈소스 기여 | |
 | 2026.03.27 ~ 04.17 | [AIPOT](https://github.com/Dvely/Dvely_AIPOT) | 고급인공지능 중간 — 포커 트레이닝 게임 → Checky Poker로 발전 | 4인 · 팀장 |
-| 2026.03.11 ~ 진행중 | **[Qeploy](https://github.com/Dvely)** | 한이음 드림업 겸 졸업작품 — 빌드&배포 자동화 플랫폼 | 4인 · 팀장 |
+| 2026.03.11 ~ 진행중 | **[Qeploy](https://github.com/Dvely)** | 한이음 드림업 겸 졸업작품 — 대화형 AI 웹서비스 빌드·배포 플랫폼 · 📄 ACK 2026 논문 (주저자) · npm 배포 (@qeploy/cli · @qeploy/mcp) · Wanted AI Championship 2026 출품 | 4인 · 팀장 |
 
 ### 전문학사 3학년 (2025)
 
