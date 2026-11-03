@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/inseong-kim04)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rlarladlstjd@gmail.com)
-[![History](https://img.shields.io/badge/%EC%A0%84%EC%B2%B4_%EC%9D%B4%EB%A0%A5-HISTORY.md-24292F?style=flat-square)](https://github.com/Danto7632/Danto7632/blob/main/HISTORY.md)
 
 ### ✨ Highlights
 
@@ -41,9 +40,4 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=ts,java,py,cpp" height="32" alt="TypeScript, Java, Python, C++"> | <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"> | <img src="https://skillicons.dev/icons?i=spring,nestjs" height="32" alt="Spring Boot, NestJS"> | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="32" alt="Swift, Kotlin"> | <img src="https://skillicons.dev/icons?i=mysql,supabase" height="32" alt="MySQL, Supabase"> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" height="32" alt="AWS, Docker, GitHub Actions"> |
 
-### 📊 GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lemon-15.vercel.app/api?username=danto7632&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff">
-  <img alt="GitHub Stats" src="https://github-readme-stats-seven-lemon-15.vercel.app/api?username=danto7632&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da">
-</picture>
+📜 [전체 이력 보기 — 수상 · 프로젝트 · 자격증 · 성장기록 →](https://github.com/Danto7632/Danto7632/blob/main/HISTORY.md)
