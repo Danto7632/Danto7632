@@ -13,7 +13,7 @@
 
 | 일자 | 대회 | 결과 | 상격 | 프로젝트 |
 |:--|:--|:--|:--|:--|
-| 2026.09 | **OpenAI × AI·SW마에스트로 Codex Impact Workshop** | **2위** | OpenAI · AI·SW마에스트로 | [ChoiceLens](https://github.com/stop-404/ChoiceLens) |
+| 2026.09 | OpenAI × AI·SW마에스트로 Codex Impact Workshop | 2위 | OpenAI · AI·SW마에스트로 | [ChoiceLens](https://github.com/stop-404/ChoiceLens) |
 | 2026.01.16 | 2025 Digi-STAR Program in Busan 경진대회 | 우수상 | 디지텍고등직업교육협의회장상 | [xroom](https://github.com/Danto7632/xroom) |
 | 2025.12.29 | 2025 전국 창의코딩 경진대회 | 동상 | 영남이공대학교 공학기술교육혁신센터장상 | |
 | 2025.12.11 | **2025 스마트 제조 AI Agent 해커톤** | **2등** | Dacon CEO상 | [Contexion](https://github.com/Danto7632/Contexion) |

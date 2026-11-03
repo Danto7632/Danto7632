@@ -1,7 +1,7 @@
 ## 🦦 김인성 · Inseong Kim
 
 **프로젝트를 끝까지 책임지는, 천재 성장형 올라운더 개발자**  
-AI·SW 마에스트로 17기 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 학생회장 · 외주 41건
+**AI·SW 마에스트로 17기** 연수생 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 학생회장 · 외주 41건
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/inseong-kim04)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rlarladlstjd@gmail.com)
@@ -9,11 +9,11 @@ AI·SW 마에스트로 17기 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 �
 
 ### ✨ Highlights
 
+- 🌊 **AI·SW 마에스트로 17기** — 과기정통부 AI·SW 인재 양성 과정 · [짜잔](https://github.com/zzazan-asm) 팀장, 앱 출시
 - 🏅 **특허 등록결정** — 「유아용 손 발달 플랫폼 시스템」 · [10-2025-0024102](https://doi.org/10.8080/1020250024102)
 - 📄 **학술대회 논문 3편** (주저자 2) — ACK 2026 · 대한전자공학회 추계 · KCC2025
 - 🏆 **교외 수상 14회** — 한국연구재단 이사장상 · 한국정보산업연합회장상 · 한국가스기술공사장상
-- 🥈 **OpenAI × 소마 Codex Impact Workshop 2위** · Dacon AI Agent 해커톤 2등
-- 🧮 ACPC 2026 본선 · PCCE C++ Lv.4 · 정보처리산업기사
+- 🧮 **ACPC 2026 본선** · PCCE C++ Lv.4 · 정보처리산업기사
 
 ### 🔭 Now
 
@@ -25,7 +25,7 @@ AI·SW 마에스트로 17기 · 학사과정 4학년 · GPA 4.0/4.5 · 학과 �
 
 | Project | 한 줄 소개 | 역할 | 성과 |
 |:--|:--|:--|:--|
-| [**짜잔 Zzazan**](https://github.com/zzazan-asm)<br><sub>2026.05 ~</sub> | 기기 내 얼굴인식 아이 사진 정리 앱 | 팀장 · 3인 | 📱 iOS · Android 출시 |
+| [**짜잔 Zzazan**](https://github.com/zzazan-asm)<br><sub>2026.05 ~</sub> | 기기 내 얼굴인식 아이 사진 정리 앱 | 팀장 · 3인 | 🌊 소마 17기 · 📱 앱 출시 |
 | [**Qeploy**](https://github.com/Dvely)<br><sub>2026.03 ~</sub> | 대화형 AI 웹 빌드·배포 플랫폼 | 팀장 · 4인 | 📄 ACK 2026 (주저자) · npm 배포 |
 | [**Zivorp**](https://github.com/DMU-DebugVisual)<br><sub>2025.03 ~ 11</sub> | 코드 실행 시각화 플랫폼 | 팀장 · 5인 | 📄 논문 (주저자) · 창업유망팀 300+ |
 | [**Navis**](https://youtu.be/SwTJSwHKsIk?si=2bhPWejaHCop3xIT)<br><sub>2025.03 ~ 10</sub> | 생성형 AI PM 자동화 | 5인 | 🏆 한국정보산업연합회장상 |
