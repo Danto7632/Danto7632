@@ -80,7 +80,7 @@
 | 일자 | 전시 | 장소 | 프로젝트 | 비고 |
 |:--|:--|:--|:--|:--|
 | 2025.11.21 | 2025 Digitech 캡스톤디자인 경진대회 | 인하공전 | Zivorp | |
-| 2025.11.19 | **2025 한이음 드림업 엑스포** | 서울 KINTEX | Navis | 작품 포스터 |
+| 2025.11.19 | **2025 한이음 드림업 엑스포** | 일산 KINTEX | Navis | 작품 포스터 |
 | 2025.01.09 ~ 01.10 | [제1회 지산학 한마당 Gvalley](https://youtu.be/cfAsWLoMAV4?si=tEQ6infCZ8L_uiJ6) | | LeafTale | |
 | 2024.11.06 ~ 11.08 | **[산학연협력EXPO](https://uicexpo.org/)** | 부산 BEXCO | LeafTale | |
 | 2024.10.22 ~ 10.25 | **[KES2024 (한국전자전)](https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/)** | 서울 COEX | LeafTale | 전시 이후 [일본 LeapMotion 유통사](https://cornestech.co.jp/)와 컨택 |
