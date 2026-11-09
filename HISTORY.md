@@ -81,7 +81,7 @@
 |:--|:--|:--|:--|:--|
 | 2025.11.21 | 2025 Digitech 캡스톤디자인 경진대회 | 인하공전 | Zivorp | |
 | 2025.11.19 | **2025 한이음 드림업 엑스포** | 일산 KINTEX | Navis | 작품 포스터 |
-| 2025.01.09 ~ 01.10 | [제1회 지산학 한마당 Gvalley](https://youtu.be/cfAsWLoMAV4?si=tEQ6infCZ8L_uiJ6) | | LeafTale | |
+| 2025.01.09 ~ 01.10 | [제1회 지산학 한마당 Gvalley](https://youtu.be/cfAsWLoMAV4?si=tEQ6infCZ8L_uiJ6) | 동양미래대학교 | LeafTale | |
 | 2024.11.06 ~ 11.08 | **[산학연협력EXPO](https://uicexpo.org/)** | 부산 BEXCO | LeafTale | |
 | 2024.10.22 ~ 10.25 | **[KES2024 (한국전자전)](https://www.coex.co.kr/exhibitions/2024-%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/)** | 서울 COEX | LeafTale | 전시 이후 [일본 LeapMotion 유통사](https://cornestech.co.jp/)와 컨택 |
 
@@ -117,7 +117,7 @@
 | [PWS](https://github.com/Danto7632/PWS) · [V2](https://github.com/Danto7632/PWS_V2) · [V3](https://github.com/Danto7632/PWS_V3)<br><sub>2025.09.29 ~ 12.15<br>1인</sub> | AI활용개발실무 — 매뉴얼 기반 고객응대 시뮬레이션 플랫폼 · 우수상 |
 | [LOOPI](https://github.com/Danto7632/LOOPI)<br><sub>2025.09.19 ~ 09.20<br>1인</sub> | 로컬잇슈! 창업캠프 — KREAM 스타일 IT자산 전문거래 플랫폼 · 최우수상 |
 | [HealthSnap](https://github.com/Danto7632/HealthSnap)<br><sub>2025.08.22 ~ 08.23<br>2인 · 팀장</sub> | 호남 IS 해커톤 — 건강검진 기반 AI 건강관리 시스템 · 우수상 |
-| [cansleep](https://github.com/Danto7632/cansleep)<br><sub>2025.07.14 ~ 07.18<br>1인</sub> | [A4] AX START UP — 시니어 수면장애 개선 앱 (CBT-i) · 우수상 (AI SIX SENSE) |
+| [cansleep](https://github.com/Danto7632/cansleep)<br><sub>2025.07.14 ~ 07.18<br>4인</sub> | [A4] AX START UP — 시니어 수면장애 개선 앱 (CBT-i) · 우수상 (AI SIX SENSE) |
 | [solvedac_profile](https://github.com/Danto7632/solvedac_profile)<br><sub>3학년 1학기<br>1인</sub> | 스터디원 solved.ac 랭킹(티어·스트릭) 플랫폼 (하루) |
 | **[Zivorp](https://github.com/DMU-DebugVisual)**<br><sub>2025.03.10 ~ 11.12<br>5인 · 팀장</sub> | 졸업작품 — 코드 시각화 플랫폼 · 🥇 졸업작품 경진대회 1등 · 논문 주저자 |
 | **[Navis](https://youtu.be/SwTJSwHKsIk?si=2bhPWejaHCop3xIT)**<br><sub>2025.03.07 ~ 10.31<br>5인</sub> | 한이음 드림업 — Project Management System · 중간평가 우수 프로젝트 (상위 30%) |
@@ -179,7 +179,7 @@
 | 2025.05.09 | 2025 한이음 드림업 오프라인 AWS 1차 교육 |  |
 | 2024.11.21 ~ 11.23 | 제주형 스마트팩토리 캠프 (2박3일) |  |
 | 2024.11.15 ~ 11.16 | NextGen Startup 창업캠프 (1박2일) | → NoCodeML |
-| 2021.08.18 ~ 08.31 | 영남이공대 산업현장 탐방 및 직무 멘토링<br>IoT SW 개발자 체험 · 화이트해커 (WebGoat) · AI SW 개발자 체험 (K-means, K-NN) | 수료 ×3 |
+| 2021.08.18 ~ 08.31 | 영남이공대 산업현장 탐방 및 직무 멘토링<br><sub>· IoT SW 개발자 체험<br>· 화이트해커 (WebGoat)<br>· AI SW 개발자 체험 (K-means, K-NN)</sub> |  |
 | 2020.11.21 ~ 11.27 | 동계 SW융합 창작 캠프 | AI 모델을 적용한 홈페이지 → [template](https://github.com/Danto7632/template) |
 
 </details>
