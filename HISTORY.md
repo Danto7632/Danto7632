@@ -92,58 +92,58 @@
 
 ### 학사 4학년 (2026)
 
-| 프로젝트 | 내용 | 구성 |
-|:--|:--|:--|
-| **[Checky Poker](https://github.com/Danto7632/checky-poker)**<br><sub>2026.10 ~ 진행중</sub> | 서버 없이 브라우저끼리 P2P로 즐기는 텍사스 홀덤 · LLM 봇 (BYOK) · MIT 오픈소스 — AIPOT에서 발전 | 1인 |
-| [bathos #39 → #40](https://github.com/taxideftis/bathos/pull/40)<br><sub>2026.09.12</sub> | 오픈소스 기여 — careful-guard 훅이 안전한 git 브랜치 플래그까지 차단하던 문제 [이슈 제보](https://github.com/taxideftis/bathos/issues/39) 후 대소문자 구분 검사로 수정 |  |
-| [ChoiceLens](https://github.com/stop-404/ChoiceLens)<br><sub>2026.09</sub> | OpenAI × 소마 Codex Impact Workshop — 온라인 쇼핑 다크패턴 탐지 Chrome Extension · 🥈 2위 | 2인 |
-| [bathos #21](https://github.com/taxideftis/bathos/pull/21)<br><sub>2026.07.17</sub> | 오픈소스 기여 |  |
-| **[짜잔 Zzazan](https://github.com/zzazan-asm)**<br><sub>2026.05 ~ 운영중</sub> | AI·SW 마에스트로 17기 — 기기 내 얼굴인식으로 갤러리 속 아이 사진을 모아주는 앱 · iOS · Android 출시 · 📱 다운로드 1,000 돌파 | 3인<br>팀장 |
-| [ContextBridge](https://github.com/Danto7632/sw_maestro_ai_study)<br><sub>2026.05.23 ~ 06.13</sub> | 소마 Upstage AI 기술교육 — 협업 용어 해석 차이를 짚어주는 Agentic Workflow (FastAPI · LangGraph · Upstage) | 5인 |
-| InRoute (비공개)<br><sub>2026.05.08 ~ 06.19</sub> | 고급인공지능 기말 — 실내 내비게이션 서비스 | 4인 |
-| [mazassumnida #45](https://github.com/mazassumnida/mazassumnida/pull/45)<br><sub>2026.04.13</sub> | 오픈소스 기여 |  |
-| [AIPOT](https://github.com/Dvely/Dvely_AIPOT)<br><sub>2026.03.27 ~ 04.17</sub> | 고급인공지능 중간 — 포커 트레이닝 게임 → Checky Poker로 발전 | 4인<br>팀장 |
-| **[Qeploy](https://github.com/Dvely)**<br><sub>2026.03.11 ~ 진행중</sub> | 한이음 드림업 겸 졸업작품 — 대화형 AI 웹서비스 빌드·배포 플랫폼 · 📄 ACK 2026 논문 (주저자) · npm 배포 (@qeploy/cli · @qeploy/mcp) · Wanted AI Championship 2026 출품 | 4인<br>팀장 |
+| 프로젝트 | 내용 |
+|:--|:--|
+| **[Checky Poker](https://github.com/Danto7632/checky-poker)**<br><sub>2026.10 ~ 진행중<br>1인</sub> | 서버 없이 브라우저끼리 P2P로 즐기는 텍사스 홀덤 · LLM 봇 (BYOK) · MIT 오픈소스 — AIPOT에서 발전 |
+| [bathos #39 → #40](https://github.com/taxideftis/bathos/pull/40)<br><sub>2026.09.12</sub> | 오픈소스 기여 — careful-guard 훅이 안전한 git 브랜치 플래그까지 차단하던 문제 [이슈 제보](https://github.com/taxideftis/bathos/issues/39) 후 대소문자 구분 검사로 수정 |
+| [ChoiceLens](https://github.com/stop-404/ChoiceLens)<br><sub>2026.09<br>2인</sub> | OpenAI × 소마 Codex Impact Workshop — 온라인 쇼핑 다크패턴 탐지 Chrome Extension · 🥈 2위 |
+| [bathos #21](https://github.com/taxideftis/bathos/pull/21)<br><sub>2026.07.17</sub> | 오픈소스 기여 |
+| **[짜잔 Zzazan](https://github.com/zzazan-asm)**<br><sub>2026.05 ~ 운영중<br>3인 · 팀장</sub> | AI·SW 마에스트로 17기 — 기기 내 얼굴인식으로 갤러리 속 아이 사진을 모아주는 앱 · iOS · Android 출시 · 📱 다운로드 1,000 돌파 |
+| [ContextBridge](https://github.com/Danto7632/sw_maestro_ai_study)<br><sub>2026.05.23 ~ 06.13<br>5인</sub> | 소마 Upstage AI 기술교육 — 협업 용어 해석 차이를 짚어주는 Agentic Workflow (FastAPI · LangGraph · Upstage) |
+| InRoute (비공개)<br><sub>2026.05.08 ~ 06.19<br>4인</sub> | 고급인공지능 기말 — 실내 내비게이션 서비스 |
+| [mazassumnida #45](https://github.com/mazassumnida/mazassumnida/pull/45)<br><sub>2026.04.13</sub> | 오픈소스 기여 |
+| [AIPOT](https://github.com/Dvely/Dvely_AIPOT)<br><sub>2026.03.27 ~ 04.17<br>4인 · 팀장</sub> | 고급인공지능 중간 — 포커 트레이닝 게임 → Checky Poker로 발전 |
+| **[Qeploy](https://github.com/Dvely)**<br><sub>2026.03.11 ~ 진행중<br>4인 · 팀장</sub> | 한이음 드림업 겸 졸업작품 — 대화형 AI 웹서비스 빌드·배포 플랫폼 · 📄 ACK 2026 논문 (주저자) · npm 배포 (@qeploy/cli · @qeploy/mcp) · Wanted AI Championship 2026 출품 |
 
 ### 전문학사 3학년 (2025)
 
-| 프로젝트 | 내용 | 구성 |
-|:--|:--|:--|
-| [reframe](https://github.com/Danto7632/reframe)<br><sub>2026.02.06 ~ 02.07</sub> | GDGoC 연합해커톤 ONE WAVE — 취업난 해결 솔루션 | 4인 |
-| [xroom](https://github.com/Danto7632/xroom)<br><sub>2026.01</sub> | Digi-STAR Program in Busan — '응답하라 청춘: 감천 X-룸' 감천문화마을 가족여행 프로젝트 · 우수상 | 7인 |
-| [Jekimi](https://github.com/Danto7632/Jekimi)<br><sub>2025.12.18 ~ 12.19</sub> | JNU RISEFLOW GLOBAL FORUM AI 아이디어톤 — AI로 제주 지역사회문제 해결 | 4인<br>팀장 |
-| **[Contexion](https://github.com/Danto7632/Contexion)**<br><sub>2025.12.10 ~ 12.11</sub> | 스마트 제조 AI Agent 해커톤 — 제조 도메인 LLM·RAG AI Agent · 🥈 2등 | 2인<br>팀장 |
-| **2025 POSTECH X OIBC CHALLENGE** (업로드 예정)<br><sub>2025.11.03 ~ 11.14</sub> | 환경센서 미설치 발전소의 일사량 정밀 추정 모델 | 4인<br>팀장 |
-| [PWS](https://github.com/Danto7632/PWS) · [V2](https://github.com/Danto7632/PWS_V2) · [V3](https://github.com/Danto7632/PWS_V3)<br><sub>2025.09.29 ~ 12.15</sub> | AI활용개발실무 — 매뉴얼 기반 고객응대 시뮬레이션 플랫폼 · 우수상 | 1인 |
-| [LOOPI](https://github.com/Danto7632/LOOPI)<br><sub>2025.09.19 ~ 09.20</sub> | 로컬잇슈! 창업캠프 — KREAM 스타일 IT자산 전문거래 플랫폼 · 최우수상 | 1인 |
-| [HealthSnap](https://github.com/Danto7632/HealthSnap)<br><sub>2025.08.22 ~ 08.23</sub> | 호남 IS 해커톤 — 건강검진 기반 AI 건강관리 시스템 · 우수상 | 2인<br>팀장 |
-| [cansleep](https://github.com/Danto7632/cansleep)<br><sub>2025.07.14 ~ 07.18</sub> | [A4] AX START UP — 시니어 수면장애 개선 앱 (CBT-i) · 우수상 (AI SIX SENSE) | 1인 |
-| [solvedac_profile](https://github.com/Danto7632/solvedac_profile)<br><sub>3학년 1학기</sub> | 스터디원 solved.ac 랭킹(티어·스트릭) 플랫폼 (하루) | 1인 |
-| **[Zivorp](https://github.com/DMU-DebugVisual)**<br><sub>2025.03.10 ~ 11.12</sub> | 졸업작품 — 코드 시각화 플랫폼 · 🥇 졸업작품 경진대회 1등 · 논문 주저자 | 5인<br>팀장 |
-| **[Navis](https://youtu.be/SwTJSwHKsIk?si=2bhPWejaHCop3xIT)**<br><sub>2025.03.07 ~ 10.31</sub> | 한이음 드림업 — Project Management System · 중간평가 우수 프로젝트 (상위 30%) | 5인 |
+| 프로젝트 | 내용 |
+|:--|:--|
+| [reframe](https://github.com/Danto7632/reframe)<br><sub>2026.02.06 ~ 02.07<br>4인</sub> | GDGoC 연합해커톤 ONE WAVE — 취업난 해결 솔루션 |
+| [xroom](https://github.com/Danto7632/xroom)<br><sub>2026.01<br>7인</sub> | Digi-STAR Program in Busan — '응답하라 청춘: 감천 X-룸' 감천문화마을 가족여행 프로젝트 · 우수상 |
+| [Jekimi](https://github.com/Danto7632/Jekimi)<br><sub>2025.12.18 ~ 12.19<br>4인 · 팀장</sub> | JNU RISEFLOW GLOBAL FORUM AI 아이디어톤 — AI로 제주 지역사회문제 해결 |
+| **[Contexion](https://github.com/Danto7632/Contexion)**<br><sub>2025.12.10 ~ 12.11<br>2인 · 팀장</sub> | 스마트 제조 AI Agent 해커톤 — 제조 도메인 LLM·RAG AI Agent · 🥈 2등 |
+| **2025 POSTECH X OIBC CHALLENGE** (업로드 예정)<br><sub>2025.11.03 ~ 11.14<br>4인 · 팀장</sub> | 환경센서 미설치 발전소의 일사량 정밀 추정 모델 |
+| [PWS](https://github.com/Danto7632/PWS) · [V2](https://github.com/Danto7632/PWS_V2) · [V3](https://github.com/Danto7632/PWS_V3)<br><sub>2025.09.29 ~ 12.15<br>1인</sub> | AI활용개발실무 — 매뉴얼 기반 고객응대 시뮬레이션 플랫폼 · 우수상 |
+| [LOOPI](https://github.com/Danto7632/LOOPI)<br><sub>2025.09.19 ~ 09.20<br>1인</sub> | 로컬잇슈! 창업캠프 — KREAM 스타일 IT자산 전문거래 플랫폼 · 최우수상 |
+| [HealthSnap](https://github.com/Danto7632/HealthSnap)<br><sub>2025.08.22 ~ 08.23<br>2인 · 팀장</sub> | 호남 IS 해커톤 — 건강검진 기반 AI 건강관리 시스템 · 우수상 |
+| [cansleep](https://github.com/Danto7632/cansleep)<br><sub>2025.07.14 ~ 07.18<br>1인</sub> | [A4] AX START UP — 시니어 수면장애 개선 앱 (CBT-i) · 우수상 (AI SIX SENSE) |
+| [solvedac_profile](https://github.com/Danto7632/solvedac_profile)<br><sub>3학년 1학기<br>1인</sub> | 스터디원 solved.ac 랭킹(티어·스트릭) 플랫폼 (하루) |
+| **[Zivorp](https://github.com/DMU-DebugVisual)**<br><sub>2025.03.10 ~ 11.12<br>5인 · 팀장</sub> | 졸업작품 — 코드 시각화 플랫폼 · 🥇 졸업작품 경진대회 1등 · 논문 주저자 |
+| **[Navis](https://youtu.be/SwTJSwHKsIk?si=2bhPWejaHCop3xIT)**<br><sub>2025.03.07 ~ 10.31<br>5인</sub> | 한이음 드림업 — Project Management System · 중간평가 우수 프로젝트 (상위 30%) |
 
 ### 전문학사 2학년 (2024)
 
-| 프로젝트 | 내용 | 구성 |
-|:--|:--|:--|
-| [ELPromotionPage2](https://github.com/Danto7632/ELPromotionPage2)<br><sub>2학년 겨울방학</sub> | 동아리 EL 홍보페이지 ver.2 (React, 하루) | 1인 |
-| **생성형 AI 기반 제주관광코스** (비공개)<br><sub>2025.01.06 ~ 01.10</sub> | Digi-STAR Program in JEJU (4박5일) · 🏆 대상<br>각자의 역할을 착실히 수행하는 팀플을 경험한, 잊지 못할 추억 | 기획 8인<br>팀장 |
-| NoCodeML (비공개)<br><sub>2024.11.15 ~ 11.16</sub> | NextGen Startup 창업캠프 — 노코드 머신러닝 · 우수상 | 기획 4인<br>팀장 |
-| [jsp_lotto_captain](https://github.com/ghkdtjfxkd/jsp-lotto-captain)<br><sub>2학년 2학기</sub> | 백엔드 과제 — 커스텀 로또사이트 (JSP, API) | 2인 |
-| **[2024_6th_OIBC_EL](https://github.com/Danto7632/2024_6th_OIBC_EL)**<br><sub>2024.11.11 ~ 11.15</sub> | [2024 POSTECH X OIBC CHALLENGE](https://dataen.ai/challenge/history/2024) — 기상예측 데이터 기반 전력시장 예측 모델 · 200여 팀 중 18위 | 5인<br>팀장 |
-| **[LeafTale](https://github.com/Danto7632/LeafTale)**<br><sub>2024.04.16 ~ 10.22</sub> | EXPO — AI 손 발달 및 재활 운동 플랫폼 · 🏅 특허 등록 · 한국연구재단 이사장상 · EXPO 대상 | 14인<br>팀장 |
-| [ELPromotionPage](https://github.com/Danto7632/ELPromotionPage)<br><sub>2학년 여름방학</sub> | 동아리 EL 홍보페이지 ver.1 (React, 하루) | 1인 |
-| BatsBot (비공개)<br><sub>2학년 1학기</sub> | IoT 과제 — 자율주행로봇 (최적탐색 · 미로 알고리즘) | 1인 |
-| 쇼핑몰 (비공개)<br><sub>2학년 1학기</sub> | 웹 과제 — 쇼핑몰 (React, API) | 1인 |
+| 프로젝트 | 내용 |
+|:--|:--|
+| [ELPromotionPage2](https://github.com/Danto7632/ELPromotionPage2)<br><sub>2학년 겨울방학<br>1인</sub> | 동아리 EL 홍보페이지 ver.2 (React, 하루) |
+| **생성형 AI 기반 제주관광코스** (비공개)<br><sub>2025.01.06 ~ 01.10<br>기획 8인 · 팀장</sub> | Digi-STAR Program in JEJU (4박5일) · 🏆 대상<br>각자의 역할을 착실히 수행하는 팀플을 경험한, 잊지 못할 추억 |
+| NoCodeML (비공개)<br><sub>2024.11.15 ~ 11.16<br>기획 4인 · 팀장</sub> | NextGen Startup 창업캠프 — 노코드 머신러닝 · 우수상 |
+| [jsp_lotto_captain](https://github.com/ghkdtjfxkd/jsp-lotto-captain)<br><sub>2학년 2학기<br>2인</sub> | 백엔드 과제 — 커스텀 로또사이트 (JSP, API) |
+| **[2024_6th_OIBC_EL](https://github.com/Danto7632/2024_6th_OIBC_EL)**<br><sub>2024.11.11 ~ 11.15<br>5인 · 팀장</sub> | [2024 POSTECH X OIBC CHALLENGE](https://dataen.ai/challenge/history/2024) — 기상예측 데이터 기반 전력시장 예측 모델 · 200여 팀 중 18위 |
+| **[LeafTale](https://github.com/Danto7632/LeafTale)**<br><sub>2024.04.16 ~ 10.22<br>14인 · 팀장</sub> | EXPO — AI 손 발달 및 재활 운동 플랫폼 · 🏅 특허 등록 · 한국연구재단 이사장상 · EXPO 대상 |
+| [ELPromotionPage](https://github.com/Danto7632/ELPromotionPage)<br><sub>2학년 여름방학<br>1인</sub> | 동아리 EL 홍보페이지 ver.1 (React, 하루) |
+| BatsBot (비공개)<br><sub>2학년 1학기<br>1인</sub> | IoT 과제 — 자율주행로봇 (최적탐색 · 미로 알고리즘) |
+| 쇼핑몰 (비공개)<br><sub>2학년 1학기<br>1인</sub> | 웹 과제 — 쇼핑몰 (React, API) |
 
 ### 전문학사 1학년 (2023)
 
-| 프로젝트 | 내용 | 구성 |
-|:--|:--|:--|
-| [GDP](https://github.com/Danto7632/GDP)<br><sub>2024.01.09 ~ 02.29</sub> | 겨울방학 팀프로젝트 — 게임 (뱀서 장르) | 2인 |
-| 팜와쓔 (비공개)<br><sub>2023.12.26 ~ 12.27</sub> | AI PD Lab BOOTCAMP (1박2일) — AI 스마트팜 융합 서비스 · 최우수상 | 기획 6인 |
-| UniTechHub (비공개)<br><sub>2023.07.04 ~ 08.25</sub> | 여름방학 팀프로젝트 — 잡다한 웹 구현 (망함) | 3인<br>팀장 |
-| retto (비공개)<br><sub>2023.04.17 ~ 06.12</sub> | 웹 과제 — 가구쇼핑몰 (IKEA 기반) | 4인<br>팀장 |
+| 프로젝트 | 내용 |
+|:--|:--|
+| [GDP](https://github.com/Danto7632/GDP)<br><sub>2024.01.09 ~ 02.29<br>2인</sub> | 겨울방학 팀프로젝트 — 게임 (뱀서 장르) |
+| 팜와쓔 (비공개)<br><sub>2023.12.26 ~ 12.27<br>기획 6인</sub> | AI PD Lab BOOTCAMP (1박2일) — AI 스마트팜 융합 서비스 · 최우수상 |
+| UniTechHub (비공개)<br><sub>2023.07.04 ~ 08.25<br>3인 · 팀장</sub> | 여름방학 팀프로젝트 — 잡다한 웹 구현 (망함) |
+| retto (비공개)<br><sub>2023.04.17 ~ 06.12<br>4인 · 팀장</sub> | 웹 과제 — 가구쇼핑몰 (IKEA 기반) |
 
 ---
 
