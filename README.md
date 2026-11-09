@@ -27,8 +27,8 @@
 |:--|:--|:--|:--|
 | [**짜잔 Zzazan**](https://github.com/zzazan-asm)<br><sub>2026.05 ~</sub> | 기기 내 얼굴인식 아이 사진 정리 앱 | 팀장 · 3인 | 🌊 소마 17기 · 📱 다운로드 1,000 돌파 |
 | [**Qeploy**](https://github.com/Dvely)<br><sub>2026.03 ~</sub> | 대화형 AI 웹 빌드·배포 플랫폼 | 팀장 · 4인 | 📄 ACK 2026 (주저자) · npm 배포 |
-| [**Zivorp**](https://github.com/DMU-DebugVisual)<br><sub>2025.03 ~ 11</sub> | 코드 실행 시각화 플랫폼 | 팀장 · 5인 | 📄 논문 (주저자) · 창업유망팀 300+ |
-| [**Navis**](https://youtu.be/SwTJSwHKsIk?si=2bhPWejaHCop3xIT)<br><sub>2025.03 ~ 10</sub> | 생성형 AI PM 자동화 | 5인 | 🏆 한국정보산업연합회장상 |
+| [**Zivorp**](https://github.com/DMU-DebugVisual)<br><sub>2025.03 ~ 11</sub> | 코드 실행 시각화 플랫폼 | 팀장 · 5인 | 📄 대한전자공학회 추계 (주저자) · 창업유망팀 300+ |
+| [**Navis**](https://youtu.be/SwTJSwHKsIk?si=2bhPWejaHCop3xIT)<br><sub>2025.03 ~ 10</sub> | 생성형 AI PM 자동화 | 5인 | 📄 KCC2025 · 🏆 한국정보산업연합회장상 |
 | [**LeafTale**](https://github.com/Danto7632/LeafTale)<br><sub>2024.04 ~ 10</sub> | AI 손 발달·재활 게임 | 팀장 · 14인 | 🏅 특허 · 🏆 한국연구재단 이사장상 |
 
 🤝 **Open Source** — [mazassumnida #45](https://github.com/mazassumnida/mazassumnida/pull/45) · bathos [#21](https://github.com/taxideftis/bathos/pull/21) · [#39](https://github.com/taxideftis/bathos/issues/39) → [#40](https://github.com/taxideftis/bathos/pull/40)
