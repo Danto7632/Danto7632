@@ -65,13 +65,13 @@
 
 | 발명의 명칭 | 출원번호 | 출원일 | 상태 | 프로젝트 |
 |:--|:--|:--|:--|:--|
-| **유아용 손 발달 플랫폼 시스템** | [10-2025-0024102](https://doi.org/10.8080/1020250024102) | 2025.02.21 | **등록결정** (2026.10.30) · 등록료 납부 후 등록 예정 | LeafTale |
+| **유아용 손 발달 플랫폼 시스템** | [10-2025-0024102](https://doi.org/10.8080/1020250024102) | 2025.02.25 | **등록** (2026.11.05) · 제10-3046013호 | LeafTale |
 
 ### 📄 논문 (학술대회 포스터)
 
 | 일자 | 학술대회 | 논문 | 저자 | 프로젝트 |
 |:--|:--|:--|:--|:--|
-| 2026.11 | **2026 한국정보처리학회 추계학술발표대회 (ACK 2026)** | 공유 출구 프록시를 이용한 AI 생성 웹 애플리케이션 프리뷰의 세션별 네트워크 격리 · 게재 확정, 세종대 포스터 발표 | **주저자** | Qeploy |
+| 2026.11 | **2026 한국정보처리학회 추계학술발표대회 (ACK 2026)** | 공유 출구 프록시를 이용한 AI 생성 웹 애플리케이션 프리뷰의 세션별 네트워크 격리 · 세종대 포스터 발표 | **주저자** | Qeploy |
 | 2025.11.28 | **2025 대한전자공학회 추계학술대회** | [언어 비의존 코드 실행 시각화를 위한 최소 이벤트 스키마와 웹 기반 재생 파이프라인](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551263) | **주저자** (6인) | Zivorp |
 | 2025.07.04 | **2025 한국컴퓨터종합학술대회 (KCC2025)** | [생성형 AI를 활용한 자동 스프린트 계획 및 프로젝트 관리 자동화 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318706) | 6인 | Navis |
 
@@ -95,9 +95,10 @@
 | 기간 | 프로젝트 | 내용 | 구성 |
 |:--|:--|:--|:--|
 | 2026.10 ~ 진행중 | **[Checky Poker](https://github.com/Danto7632/checky-poker)** | 서버 없이 브라우저끼리 P2P로 즐기는 텍사스 홀덤 · LLM 봇 (BYOK) · MIT 오픈소스 — AIPOT에서 발전 | 1인 |
+| 2026.09.12 | [bathos #39 → #40](https://github.com/taxideftis/bathos/pull/40) | 오픈소스 기여 — careful-guard 훅이 안전한 git 브랜치 플래그까지 차단하던 문제 [이슈 제보](https://github.com/taxideftis/bathos/issues/39) 후 대소문자 구분 검사로 수정 | |
 | 2026.09 | [ChoiceLens](https://github.com/stop-404/ChoiceLens) | OpenAI × 소마 Codex Impact Workshop — 온라인 쇼핑 다크패턴 탐지 Chrome Extension · 🥈 2위 | 2인 |
 | 2026.07.17 | [bathos #21](https://github.com/taxideftis/bathos/pull/21) | 오픈소스 기여 | |
-| 2026.05 ~ 운영중 | **[짜잔 Zzazan](https://github.com/zzazan-asm)** | AI·SW 마에스트로 17기 — 기기 내 얼굴인식으로 갤러리 속 아이 사진을 모아주는 앱 · iOS · Android 출시 | 3인 · 팀장 |
+| 2026.05 ~ 운영중 | **[짜잔 Zzazan](https://github.com/zzazan-asm)** | AI·SW 마에스트로 17기 — 기기 내 얼굴인식으로 갤러리 속 아이 사진을 모아주는 앱 · iOS · Android 출시 · 📱 다운로드 1,000 돌파 | 3인 · 팀장 |
 | 2026.05.23 ~ 06.13 | [ContextBridge](https://github.com/Danto7632/sw_maestro_ai_study) | 소마 Upstage AI 기술교육 — 협업 용어 해석 차이를 짚어주는 Agentic Workflow (FastAPI · LangGraph · Upstage) | 5인 |
 | 2026.05.08 ~ 06.19 | InRoute (비공개) | 고급인공지능 기말 — 실내 내비게이션 서비스 | 4인 |
 | 2026.04.13 | [mazassumnida #45](https://github.com/mazassumnida/mazassumnida/pull/45) | 오픈소스 기여 | |
@@ -130,7 +131,7 @@
 | 2024.11.15 ~ 11.16 | NoCodeML (비공개) | NextGen Startup 창업캠프 — 노코드 머신러닝 · 우수상 | 기획 4인 · 팀장 |
 | 2학년 2학기 | [jsp_lotto_captain](https://github.com/ghkdtjfxkd/jsp-lotto-captain) | 백엔드 과제 — 커스텀 로또사이트 (JSP, API) | 2인 |
 | 2024.11.11 ~ 11.15 | **[2024_6th_OIBC_EL](https://github.com/Danto7632/2024_6th_OIBC_EL)** | [2024 POSTECH X OIBC CHALLENGE](https://dataen.ai/challenge/history/2024) — 기상예측 데이터 기반 전력시장 예측 모델 · 200여 팀 중 18위 | 5인 · 팀장 |
-| 2024.04.16 ~ 10.22 | **[LeafTale](https://github.com/Danto7632/LeafTale)** | EXPO — AI 손 발달 및 재활 운동 플랫폼 · 🏅 특허 등록결정 · 한국연구재단 이사장상 · EXPO 대상 | 14인 · 팀장 |
+| 2024.04.16 ~ 10.22 | **[LeafTale](https://github.com/Danto7632/LeafTale)** | EXPO — AI 손 발달 및 재활 운동 플랫폼 · 🏅 특허 등록 · 한국연구재단 이사장상 · EXPO 대상 | 14인 · 팀장 |
 | 2학년 여름방학 | [ELPromotionPage](https://github.com/Danto7632/ELPromotionPage) | 동아리 EL 홍보페이지 ver.1 (React, 하루) | 1인 |
 | 2학년 1학기 | BatsBot (비공개) | IoT 과제 — 자율주행로봇 (최적탐색 · 미로 알고리즘) | 1인 |
 | 2학년 1학기 | 쇼핑몰 (비공개) | 웹 과제 — 쇼핑몰 (React, API) | 1인 |
@@ -152,7 +153,7 @@
 | 일자 | 항목 | 구분 | 비고 |
 |:--|:--|:--|:--|
 | 2026 3회 실기 | **정보처리기사** | 자격증 | 응시 · 결과 대기 |
-| 2026.10.10 | **TOPCIT** | 인증서 | 응시 · 결과 대기 |
+| 2026.10.10 | **TOPCIT** | 인증서 | **수준3** · 577점 |
 | 2026.10.26 | **PCCE C++ Lv.4** | 자격증 | |
 | 2026.08.02 | **ACPC 2026 Finals (본선)** | 인증서 | |
 | 2026.07.15 | 코디세이 프로그래밍 (종합설계) | 인증서 | |
