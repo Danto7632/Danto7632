@@ -18,9 +18,10 @@
 
 ### 🔭 Now
 
-- 🎓 **졸업작품 경진대회** 예선 — [Qeploy](https://github.com/Dvely) 포스터 제출 · 📄 ACK 2026 논문 발표 (11.6)
+- 📱 [**짜잔**](https://github.com/zzazan-asm) — iOS · Android 운영 중
+- ♠️ [**Checky Poker**](https://github.com/Danto7632/checky-poker) — 오픈소스 개발 중
+- 🚀 [**Qeploy**](https://github.com/Dvely) — 대화형 AI 웹 빌드·배포 플랫폼 개발 중
 - 📝 **정보처리기사** 3회 실기 — 결과 대기
-- 📱 [**짜잔**](https://github.com/zzazan-asm) iOS · Android 운영 · ♠️ [**Checky Poker**](https://github.com/Danto7632/checky-poker) 오픈소스 개발 중
 
 ### 📌 Projects
 
